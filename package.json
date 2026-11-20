@@ -1,0 +1,26 @@
+{
+  "name": "uy-bar",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "scrape": "node scripts/scrape/run.mjs && node scripts/scrape/site-facts.mjs && node scripts/geo/geocode.mjs && node scripts/geo/osm.mjs && node scripts/geo/pois-city.mjs && node scripts/geo/crime.mjs",
+    "dev": "vite",
+    "build": "npm run build:data && tsc -p . && vite build",
+    "preview": "vite preview",
+    "build:data": "node scripts/build-data.mjs && node scripts/validate-data.mjs",
+    "test": "vitest run",
+    "test:e2e": "playwright test",
+    "test:e2e:update": "playwright test --update-snapshots",
+    "test:all": "npm test && npm run build && npm run test:e2e",
+    "update": "npm run scrape && npm run build"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.49.1",
+    "typescript": "^5.6.3",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  },
+  "dependencies": {
+    "maplibre-gl": "^4.7.1"
+  }
+}

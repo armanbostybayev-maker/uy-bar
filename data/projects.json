@@ -1,0 +1,3830 @@
+{
+ "fetchedAt": "2026-11-20",
+ "source": "https://svoydom.kz",
+ "projects": [
+  {
+   "slug": "2011396",
+   "sourceId": 14712,
+   "iblockId": null,
+   "name": "DOMBYRA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Шамши Калдаяков, 27",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/2011396/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/hyap5gryfv2n5fy15b3lhv5yuab0boxn-fe26f92890da.webp",
+    "https://svoydom.kz/upload/iblock/ec7/hyap5gryfv2n5fy15b3lhv5yuab0boxn.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/hyap5gryfv2n5fy15b3lhv5yuab0boxn-a03202930e71.webp",
+    "https://svoydom.kz/upload/svdom_webp/98ckqk9c2609kx18vyrwzksiy45njg7r-6d618fb5c26a.webp",
+    "https://svoydom.kz/upload/svdom_webp/rqy3u9mfmeg6totoicll1sx3f47ye2ol-d39af6e56392.webp",
+    "https://svoydom.kz/upload/svdom_webp/90d2vga5ocvgiti9n2yazgcn5xo6wfp3-0522972cc481.webp",
+    "https://svoydom.kz/upload/svdom_webp/1mq5r7jlrhza19x37gvtsbalmf5lbjqc-a244dc42c971.webp",
+    "https://svoydom.kz/upload/svdom_webp/epulr0mdzsdjr6uvbwh8lgskh8a3jy70-9eb2e9ca994c.webp"
+   ],
+   "description": "Жилой комплекс DOMBYRA - воплощение казахской культуры и стиля в самом сердце столицы в Алматинском районе.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4996955,
+    51.113042
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "dombyra2",
+   "sourceId": 19269,
+   "iblockId": null,
+   "name": "DOMBYRA 2",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Жумекен Нажимеденов, 26/2",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/dombyra2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/acf28o8tp0zou1fa86tpkndak4hnz4g3-740c0bde1591.webp",
+    "https://svoydom.kz/upload/iblock/89d/acf28o8tp0zou1fa86tpkndak4hnz4g3.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/cobik4n02pk3dfzwj4ix76l6d9zjl1dk-ebbf9a1fe45a.webp",
+    "https://svoydom.kz/upload/svdom_webp/cxdbpnm6e0ieqaim762v4gcc0eq6xap8-b359d4632a85.webp",
+    "https://svoydom.kz/upload/svdom_webp/artua8yxyoqni63riu72mybjry02oalg-695f18c7e388.webp",
+    "https://svoydom.kz/upload/svdom_webp/cvpjcmjyhtvqwhqeewwywirooxj82km3-b5dd06436720.webp",
+    "https://svoydom.kz/upload/svdom_webp/2kl8wp6rev8pz7xao0m4x1b6jkcx8pyu-ead51d3bce46.webp",
+    "https://svoydom.kz/upload/svdom_webp/c3x1q4h0v2ins68n4eu9eo2bavm4va2w-fd16e4865dee.webp"
+   ],
+   "description": "Жилой комплекс DOMBYRA - воплощение казахской культуры и стиля.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.493540837588,
+    51.114718839846
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baimura",
+   "sourceId": 21041,
+   "iblockId": null,
+   "name": "BAIMURA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Е-34, 4",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/baimura/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/34k48rrxlb326glnec7ksed7fgebm0u1-013097385e86.webp",
+    "https://svoydom.kz/upload/iblock/977/34k48rrxlb326glnec7ksed7fgebm0u1.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-img-931e982e5e98.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-f94d09569e49.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-9f12dfade4be.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img3-d776cf871e00.webp",
+    "https://svoydom.kz/upload/iblock/def/6dzfu30unibjiosx5mpnfpyjv2bvg8xj.png",
+    "https://svoydom.kz/upload/iblock/b36/vq0vqm8ugv68kxubdgklw6j42d6dk5m1.png"
+   ],
+   "description": "ЖК BAIMURA — жилой комплекс в Астане. Срок сдачи: III квартал 2025 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.377907610153,
+    51.125782854456
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "dos",
+   "sourceId": 21042,
+   "iblockId": null,
+   "name": "DOS",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Керей-Жанибек хандар, 44/6",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/dos/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/ujgc9c36l3y5o1ez0wm1r0i9107qwirz-8b4489653f57.webp",
+    "https://svoydom.kz/upload/iblock/ce4/ujgc9c36l3y5o1ez0wm1r0i9107qwirz.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/wc2esrsgg6frz7pxowxc1adad0hwea5o-64e88d78ac5c.webp",
+    "https://svoydom.kz/upload/svdom_webp/2vy6twatwdo0ucj5q2puv4629w47ezur-09ca3a702fee.webp",
+    "https://svoydom.kz/upload/svdom_webp/rw61joh4rfhs1yn10de9i44de83zutbx-6541a3aa40bb.webp",
+    "https://svoydom.kz/upload/svdom_webp/dbaxk092bs3sb9kj18p0rw5r44dan281-17a8c6f39db6.webp",
+    "https://svoydom.kz/upload/svdom_webp/m01lz4y52e7j5gf2onswh5yrovks5f5e-13bcf3c4a9c0.webp",
+    "https://svoydom.kz/upload/svdom_webp/ps4vkdgsjnl3ruk16v6pbl2cub22tyq9-9174719b0f33.webp"
+   ],
+   "description": "DOS — это современный жилой комплекс, созданный как символ\r\n дружбы и единства, вдохновленный культурным многообразием\r\n            Казахстана.",
+   "priceFrom": 95913900,
+   "priceFromM2": 855000,
+   "rooms": [
+    1
+   ],
+   "coords": [
+    71.444711015392,
+    51.105466041071
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "vp-gakku",
+   "sourceId": 23125,
+   "iblockId": null,
+   "name": "Коммерческие помещения GAKKU",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": null,
+   "deadlineYear": null,
+   "address": "Улица Керей-Жанибек хандар, 44/5",
+   "district": null,
+   "url": "https://svoydom.kz/business_projects/vp-gakku/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/xem6bowvaqcb88yb3rd72vus17ikgb5h-cb1c53ca8121.webp",
+    "https://svoydom.kz/upload/svdom_og/xem6bowvaqcb88yb3rd72vus17ikgb5h-d0524a0c70d3.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/commercial-bg-79956c76bb40.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-9a4cdf574cbe.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-be0705058c66.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img3-e907ccdaa8dc.webp",
+    "https://svoydom.kz/upload/svdom_webp/e0691b15089e.webp",
+    "https://svoydom.kz/upload/svdom_webp/8aa9c4143aa5.webp"
+   ],
+   "description": "Коммерческие помещения GAKKU — помещения в Астане. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.443627419512,
+    51.103896768887
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "tamasha",
+   "sourceId": 23526,
+   "iblockId": null,
+   "name": "TAMASHA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Проспект Тауелсиздик, 25/1",
+   "district": "Алматинский",
+   "url": "https://svoydom.kz/comfort_projects/tamasha/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/p8swsnkax1nr9ux44dpy0jtqv9xwdt8l-bd3998cb079f.webp",
+    "https://svoydom.kz/upload/iblock/e10/p8swsnkax1nr9ux44dpy0jtqv9xwdt8l.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-661f37dae446.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-468d2e3a1682.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-cfbe5f45ecc8.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img3-0d5ef0961cd3.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img4-416a231da94b.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img5-216b6187937e.webp"
+   ],
+   "description": "ЖК TAMASHA — жилой комплекс в Астане, район Алматинский район. Срок сдачи: III квартал 2025. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.459020177784,
+    51.143449849436
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "dauys",
+   "sourceId": 24599,
+   "iblockId": null,
+   "name": "DAUYS",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Жумекен Нажимеденов, 28",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/comfort_projects/dauys/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/f62wapgp16i4adijrzn3elczjh8c7b5k-400d62b58a5e.webp",
+    "https://svoydom.kz/upload/iblock/222/f62wapgp16i4adijrzn3elczjh8c7b5k.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-d9db32367a73.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-info-bg-d2e26a983a10.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-info-bg-8c49cc532589.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-6b4e164bf6f7.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-f753fbbb9453.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img3-dedf451ae106.webp"
+   ],
+   "description": "ЖК DAUYS — жилой комплекс в Астане, район Район Сарайшык. Срок сдачи: III квартал 2025 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.494612543648,
+    51.115512620348
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "qaiyndy3",
+   "sourceId": 24701,
+   "iblockId": null,
+   "name": "QAIYNDY 3",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Чингиз Айтматов, 77/7",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/qaiyndy3/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/9emqm34u0rqlkgmmybdh0agalcp33ce4-de7ab4dac3a7.webp",
+    "https://svoydom.kz/upload/iblock/0bc/9emqm34u0rqlkgmmybdh0agalcp33ce4.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-bg-67a43c8e5389.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-block-img1-4e0fa0314a53.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-block-img2-5db6cf38d54e.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-block-img3-ba457ce07816.webp",
+    "https://svoydom.kz/upload/svdom_webp/arr-big-6e473c59add3.webp",
+    "https://svoydom.kz/upload/svdom_webp/how-6de104f9add2.webp"
+   ],
+   "description": "ЖК QAIYNDY 3 — жилой комплекс в Астане. Срок сдачи: III квартал 2025 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.36886178836,
+    51.167217944327
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baimura2",
+   "sourceId": 25014,
+   "iblockId": null,
+   "name": "BAIMURA 2",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Е-34",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/baimura2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/2cbfqo7ohzigcvkjxc01lv3nq8azt6cw-83bdcbcb6357.webp",
+    "https://svoydom.kz/upload/iblock/10f/2cbfqo7ohzigcvkjxc01lv3nq8azt6cw.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-464589d619e5.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-img-c4eb709b7625.webp",
+    "https://svoydom.kz/upload/svdom_webp/style1-2971dfc28dab.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-f5e2a92345ca.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-324bfa76e85c.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img3-34674a5e94b8.webp"
+   ],
+   "description": "ЖК BAIMURA 2 — жилой комплекс в Астане. Срок сдачи: III квартал 2025 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.376502846155,
+    51.126518437892
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "sandi_qala",
+   "sourceId": 25628,
+   "iblockId": null,
+   "name": "SANDI QALA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Бухар жырау, 12/2",
+   "district": "Есиль",
+   "url": "https://svoydom.kz/comfort_projects/sandi_qala/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/kxpjpe1yiosjjpas9bi23odtlgw0ghcb-cbfa9327d4ca.webp",
+    "https://svoydom.kz/upload/iblock/d1b/kxpjpe1yiosjjpas9bi23odtlgw0ghcb.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-e9a9ea42e139.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-243c972e19a8.webp",
+    "https://svoydom.kz/upload/svdom_webp/comfort-img1-3658b64e48e4.webp",
+    "https://svoydom.kz/upload/svdom_webp/comfort-img2-99c7b904cca0.webp",
+    "https://svoydom.kz/upload/svdom_webp/comfort-img3-314daecddcd8.webp",
+    "https://svoydom.kz/upload/svdom_webp/comfort-img4-0cf752c53063.webp"
+   ],
+   "description": "Это современный жилой комплекс комфорт+ класса, в котором элегантность, красота и стиль воплощены в каждой детали.",
+   "priceFrom": 21876075,
+   "priceFromM2": 526500,
+   "rooms": [
+    1
+   ],
+   "coords": [
+    71.439412375636,
+    51.101346316138
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "samal_park",
+   "sourceId": 25629,
+   "iblockId": null,
+   "name": "SAMAL PARK",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "улица Жошы хан, 17",
+   "district": "Есиль",
+   "url": "https://svoydom.kz/comfort_projects/samal_park/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/hebp1fck0c0jn3693p77pag2oftiuoqq-eaa53cc7b56a.webp",
+    "https://svoydom.kz/upload/svdom_og/hebp1fck0c0jn3693p77pag2oftiuoqq-5cf626bc818d.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-d36415525ac0.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-2907d5028b9b.webp",
+    "https://svoydom.kz/upload/svdom_webp/samal-slider-img1-c701ccc3fdbc.webp",
+    "https://svoydom.kz/upload/svdom_webp/samal-slider-img2-ecff1e7186c5.webp",
+    "https://svoydom.kz/upload/svdom_webp/samal_video-2fd27bc7456e.webp",
+    "https://svoydom.kz/upload/svdom_webp/samal_video-3e07d4f49951.webp"
+   ],
+   "description": "ЖК SAMAL PARK — жилой комплекс в Астане, район Есильский район. Срок сдачи: IV квартал 2025. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.441798136402,
+    51.103432917181
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baidaulet",
+   "sourceId": 28277,
+   "iblockId": null,
+   "name": "BAIDAULET",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Е-15, 16",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/baidaulet/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/xsmdokcilsyi620ifecpi6skb7g4hmww-3b28d45bb634.webp",
+    "https://svoydom.kz/upload/iblock/11d/xsmdokcilsyi620ifecpi6skb7g4hmww.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-542806342473.webp",
+    "https://svoydom.kz/upload/svdom_webp/baidaulet_preview-d2212d94198c.webp",
+    "https://svoydom.kz/upload/svdom_webp/baidaulet_preview-f66b4ff710ec.webp",
+    "https://svoydom.kz/upload/iblock/def/6dzfu30unibjiosx5mpnfpyjv2bvg8xj.png",
+    "https://svoydom.kz/upload/iblock/b36/vq0vqm8ugv68kxubdgklw6j42d6dk5m1.png",
+    "https://svoydom.kz/upload/iblock/952/w6e3g7sd8owzpjy3u8q4pbadweb3m8m8.png"
+   ],
+   "description": "ЖК BAIDAULET — жилой комплекс в Астане, район Район Нура. Срок сдачи: IV квартал 2025. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 23427000,
+   "priceFromM2": 570000,
+   "rooms": [
+    1
+   ],
+   "coords": [
+    71.379854864708,
+    51.124375778667
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baidaulet2",
+   "sourceId": 33791,
+   "iblockId": null,
+   "name": "BAIDAULET 2",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Е-15, 16",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/baidaulet2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/nbqb2gpa43l3h02bp12kfamk2ij64k20-216d2b457cd8.webp",
+    "https://svoydom.kz/local/templates/svdom_new/img/og-logo.png",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-bg-468faf56bf8a.webp",
+    "https://svoydom.kz/upload/svdom_webp/adv-bg-46a5bffb6cc3.webp",
+    "https://svoydom.kz/upload/svdom_webp/baidaulet_preview-d2212d94198c.webp",
+    "https://svoydom.kz/upload/svdom_webp/baidaulet_preview-f66b4ff710ec.webp",
+    "https://svoydom.kz/upload/svdom_webp/get-consultation-img-1bb942475df7.webp",
+    "https://svoydom.kz/upload/iblock/def/6dzfu30unibjiosx5mpnfpyjv2bvg8xj.png"
+   ],
+   "description": "Улица Е-15, 16",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.378525482263,
+    51.124470524493
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "1783848",
+   "sourceId": 13725,
+   "iblockId": null,
+   "name": "ÖLEÑ",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Керей-Жанибек хандар, 44/2",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/1783848/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/azf4kjud20748s2wdvr1j9apncwg9yfq-68034a716daf.webp",
+    "https://svoydom.kz/upload/iblock/3eb/azf4kjud20748s2wdvr1j9apncwg9yfq.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/azf4kjud20748s2wdvr1j9apncwg9yfq-14dfb26d7525.webp",
+    "https://svoydom.kz/upload/svdom_webp/fjqiounnip2q689e6814ye0b65t65f96-0cc0f5b13303.webp",
+    "https://svoydom.kz/upload/svdom_webp/xlqka0acjusf4inmwpnia8isdagntmt6-e5fc3e1d38a2.webp",
+    "https://svoydom.kz/upload/svdom_webp/h0ccgnw94grznl290ag1utdz0ky06bik-3ffdce1fa4a9.webp",
+    "https://svoydom.kz/upload/svdom_webp/mojh7h6ze3ertd6vhspb7r2eddztzo8y-8c8b271740f0.webp",
+    "https://svoydom.kz/upload/svdom_webp/gnop02k710m2msol01283lm1d4nlhe2p-1d0c63d44740.webp"
+   ],
+   "description": "жилой комплекс комфорт + класса, который является воплощением изысканности и удобства. Каждая деталь комплекса продумана с особой тщательностью, создавая гармоничное сочетание с городской средой.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4465807,
+    51.1050378
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "olen2",
+   "sourceId": 18829,
+   "iblockId": null,
+   "name": "ÖLEÑ II",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Керей-Жанибек хандар, 44/3",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/olen2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/2o09hnwhss4horx6hi10h7v34kkolt94-7c6f51b2f946.webp",
+    "https://svoydom.kz/upload/svdom_og/2o09hnwhss4horx6hi10h7v34kkolt94-f9221849b392.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/olen-banner-img-e5bd31c8e830.webp",
+    "https://svoydom.kz/upload/svdom_webp/9p2oaebm037mlqls8cdub1l65hxmkdey-2ba4778e1113.webp",
+    "https://svoydom.kz/upload/svdom_webp/me6y0wcp5bcqwi7gpjkvyhzfgemwi4gl-9446df5673bd.webp",
+    "https://svoydom.kz/upload/svdom_webp/gnop02k710m2msol01283lm1d4nlhe2p-551a8e7654f1.webp",
+    "https://svoydom.kz/upload/svdom_webp/67ilwmw5gjkps1273u21bwaod1pusxcg-b477848aa542.webp",
+    "https://svoydom.kz/upload/svdom_webp/jlamr9lpdedrtk58zpvrc6mvukyygzp3-93c9da7adfc7.webp"
+   ],
+   "description": "ÖLEÑ II очередь жилой комплекс комфорт класса, который является воплощением изысканности и удобства. Каждая деталь комплекса продумана с особой тщательностью, создавая гармоничное сочетание с городской средой.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.446256230453,
+    51.105969854041
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "gakku",
+   "sourceId": 19152,
+   "iblockId": null,
+   "name": "GAKKU",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Керей-Жанибек хандар, 44/5",
+   "district": null,
+   "url": "https://svoydom.kz/business_projects/gakku/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/bjfojx2n7841d7ll224woiiemfwib2mk-071ded9a9397.webp",
+    "https://svoydom.kz/upload/iblock/490/bjfojx2n7841d7ll224woiiemfwib2mk.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/gakku-banner-bg-d7b84cd25a65.webp",
+    "https://svoydom.kz/upload/svdom_webp/r0w30rip7ru6k54zz8dpqeusavyfkht4-aa1cd43a1239.webp",
+    "https://svoydom.kz/upload/svdom_webp/nm2r23suvul9nxy0vdo1sql932jejglo-192ff1abb286.webp",
+    "https://svoydom.kz/upload/svdom_webp/3ixjft61mxsznxnfnyjovhrikl8459hx-0661279a3423.webp",
+    "https://svoydom.kz/upload/svdom_webp/84llhm9oesj62y4vsaaqbdym0g70pzh1-78ea1c77f8db.webp",
+    "https://svoydom.kz/upload/svdom_webp/ahg3k79e8nhbbrt4epicna56a3r2e3i8-fec75494a7cb.webp"
+   ],
+   "description": "Жилой комплекс бизнес-класса GAKKU — это место, где гармония природы и современный стиль создают атмосферу умиротворения и эстетического удовольствия.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.443906679123,
+    51.103957401081
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "tamgaly",
+   "sourceId": 69585,
+   "iblockId": null,
+   "name": "TAMGALY",
+   "city": "Астана",
+   "class": "Комфорт+",
+   "status": "строится",
+   "deadline": "2027",
+   "deadlineYear": 2027,
+   "address": "улица Жұмекен Нәжімеденов, 5/2",
+   "district": "район Сарайшық, улица Жұмекен Нәжімеденов, уч. 5/2",
+   "url": "https://svoydom.kz/lp/astana/tamgaly/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/rsii1vxuv9pvol14wi34c2zhbfj4qw6p-d02cf2bdd953.webp",
+    "https://svoydom.kz/upload/svdom_og/b9tn3570jf92qr57br4866a9my1a48y5-71151a66d9e2.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/v6k9ud3602jgs57323uk8ku2pzhox8l3-ed7b5873c407.webp",
+    "https://svoydom.kz/upload/svdom_webp/d5qr24l3r0ph3otg28yrl2tffdpwa6gg-479062ed8501.webp",
+    "https://svoydom.kz/upload/svdom_webp/2jsfzrdze06vb7snmov5bhws1l7zzs6u-0383d48ed61e.webp",
+    "https://svoydom.kz/upload/svdom_webp/gvjqkb22dqo4cg6sc6ppyyvtwe3z3sfg-1be52bfe0e0d.webp",
+    "https://svoydom.kz/upload/svdom_webp/hky43n5cuouaynjquqx3iz7bkmwz2qae-0ce98d515a57.webp"
+   ],
+   "description": "жилой комплекс класса «комфорт+», расположенный в городе Астана",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.494693,
+    51.117169
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Tamgaly",
+   "filterRanges": null
+  },
+  {
+   "slug": "zhana_bastau",
+   "sourceId": 17561,
+   "iblockId": null,
+   "name": "ZHANA BASTAU",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": null,
+   "deadlineYear": null,
+   "address": "По проспекту Аль-Фараби, 7/3",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/zhana_bastau/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/hcy14u7t4dsmuw38aj95r3ohzgm3jzlu-3c794f4af4d3.webp",
+    "https://svoydom.kz/upload/iblock/cc8/hcy14u7t4dsmuw38aj95r3ohzgm3jzlu.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/yl1sszj74alhn9f3d8mz18ccl4ep33g3-689ce9b7aebb.webp",
+    "https://svoydom.kz/upload/svdom_webp/cjq8lug7xdf1bguupgjhfbzi2041m41p-c8de7fc49068.webp",
+    "https://svoydom.kz/upload/svdom_webp/1wg0wdqw6i7ooa9igscm60ozvaf4kupe-5100f20c38aa.webp",
+    "https://svoydom.kz/upload/svdom_webp/77jlvenkznh5f4xylk4583qks0bviq81-37e0ea6c57e7.webp",
+    "https://svoydom.kz/upload/svdom_webp/6lvwm32mkh08o2i0nw6qwmts9kin2qjp-3eace3daf1ea.webp",
+    "https://svoydom.kz/upload/svdom_webp/aw9xp0jocast9hkgssi5g1v9gd2ixsu5-8bea184e9421.webp"
+   ],
+   "description": "ZHANA BASTAU жилой комплекс комфорт класса - создан для тех, кто ценит высокое качество жизни, безопасность и удобство.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4503602,
+    51.1006779
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "janaqala",
+   "sourceId": 60977,
+   "iblockId": 122,
+   "name": "JAŃA QALA",
+   "city": "Астана",
+   "class": "Бизнес",
+   "status": "строится",
+   "deadline": "2027",
+   "deadlineYear": 2027,
+   "address": "Улица Жошы хан, 12/5",
+   "district": "Есиль",
+   "url": "https://svoydom.kz/business_projects/janaqala/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/zmxkawx82hzlmraccxmrwhyp7d3gbb9q-f8e38907c926.webp",
+    "https://svoydom.kz/upload/svdom_og/zmxkawx82hzlmraccxmrwhyp7d3gbb9q-e67c0c753ccf.jpg",
+    "https://svoydom.kz/upload/svdom_webp/artboard-1ce948ac06c4.webp",
+    "https://svoydom.kz/upload/svdom_webp/image2-9aa310520290.webp",
+    "https://svoydom.kz/upload/svdom_webp/image1-f7d9c232cc71.webp",
+    "https://svoydom.kz/upload/svdom_webp/main_bg-6a36a9387f41.webp",
+    "https://svoydom.kz/upload/svdom_webp/main_bg-de41c007b030.webp",
+    "https://svoydom.kz/upload/svdom_webp/closup1-fa66b5e4655b.webp",
+    "https://svoydom.kz/upload/svdom_webp/closup1-b667562f1ea2.webp",
+    "https://svoydom.kz/upload/svdom_webp/closup2-ef4bdbfca990.webp"
+   ],
+   "description": "ЖК JAŃA QALA — жилой комплекс в Астане, район Район Есиль. Срок сдачи: 1 квартал 2027 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 34338770,
+   "priceFromM2": 713000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.442538401872,
+    51.100644755502
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 91,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Jańa%20Qala",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 34338770,
+     "max": 100908720
+    },
+    "area": {
+     "min": 39.77,
+     "max": 137.79
+    },
+    "priceSqm": {
+     "min": 713000,
+     "max": 938000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "aibat",
+   "sourceId": 67851,
+   "iblockId": 141,
+   "name": "Aibat",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "II квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Бейбарыс Султан 8",
+   "district": "Сарыарка",
+   "url": "https://svoydom.kz/lp/astana/aibat/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/9iciob10ycl0s3pfjmzl3lkxgexr3kiu-b0d99ee09512.webp",
+    "https://svoydom.kz/upload/landing/d2f/nkbx2436wqjfiyc59mggdp6p3kvkarsj.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/40fuvlsdzl9mcpglgatnfs7w0wlzhc9n-040e2be2dc91.webp",
+    "https://svoydom.kz/upload/landing/b26/9qv9pfsbjjf9ceq1fsf9wieigpx3nj25.png",
+    "https://svoydom.kz/upload/svdom_webp/2dmorjp1jty77nrhwtriwcf7p9vclvps-a1a8813f9ad8.webp",
+    "https://svoydom.kz/upload/svdom_webp/mjgwy8w99hrsqdu2qr4d3wkh3uy3ktjc-3d41e580b124.webp",
+    "https://svoydom.kz/upload/svdom_webp/l4ca6j1uhbqa57lzp01v37vdlm4zo6qz-65f9f2b1e69b.webp"
+   ],
+   "description": "жилой комплекс класса «комфорт», расположенный в городе Астана",
+   "priceFrom": 18433800,
+   "priceFromM2": 390000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.369012947081,
+    51.171106155416
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 257,
+   "apartmentsLoaded": 18,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Aibat&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 18433800,
+     "max": 46543680
+    },
+    "area": {
+     "min": 37.15,
+     "max": 111.83
+    },
+    "priceSqm": {
+     "min": 390000,
+     "max": 590000
+    },
+    "floor": {
+     "min": 1,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "asylmeken2",
+   "sourceId": 69050,
+   "iblockId": null,
+   "name": "ASYL MEKEN II",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "2028",
+   "deadlineYear": 2028,
+   "address": "пересечение улиц Ч. Айтматова и К. Мухамедханова.",
+   "district": null,
+   "url": "https://svoydom.kz/lp/astana/asylmeken2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/na064fncgnsyntx4dt1hltto2sn3bgv8-40cc756a5611.webp",
+    "https://svoydom.kz/upload/svdom_og/xcm1frl8gunbgnkxhvc9xefpbo1gyi2m-c554d9a8214f.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/xcm1frl8gunbgnkxhvc9xefpbo1gyi2m-698522125f24.webp",
+    "https://svoydom.kz/upload/svdom_webp/9d92k3220j7mqlzkvb3jv2cp0gg42ycn-db17f10c063a.webp",
+    "https://svoydom.kz/upload/svdom_webp/021nkk82ooym55dc20eywphgl10qjjrd-d40d93658dce.webp",
+    "https://svoydom.kz/upload/svdom_webp/idkw2oe22y5101d42ea20h0gwe86dyzs-e38b92551f72.webp",
+    "https://svoydom.kz/upload/svdom_webp/kabjxdzg096xpzx4kfu1ix1zeoi8oakz-03097cf72486.webp"
+   ],
+   "description": "пересечение улиц Ч. Айтматова и К. Мухамедханова.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.361674,
+    51.141798
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": "https://3d.svoydom.kz/?_gl=1*78nx4u*_gcl_au*MjA3NzcwMDUzMS4xNzk0NDg2MzAx&media-name=Asyl%20Meken%202",
+   "filterRanges": null
+  },
+  {
+   "slug": "qaiyndy",
+   "sourceId": 17603,
+   "iblockId": null,
+   "name": "QAIYNDY",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Чингиз Айтматов, 77/9",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/qaiyndy/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/i5hzb06ziwclz8w91w1d873j2t7aft09-109921779675.webp",
+    "https://svoydom.kz/upload/iblock/ed8/i5hzb06ziwclz8w91w1d873j2t7aft09.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/nn6rrqbp9fv0b9v7gf0epl5vb9kfh6f0-1178df30c368.webp",
+    "https://svoydom.kz/upload/svdom_webp/10kr7l548qz0in99xtocucze4fxpc9g6-fb10a6b58f3e.webp",
+    "https://svoydom.kz/upload/svdom_webp/gny8qboshnvgqqcopx61thp4281pr6t3-c537c08c74ee.webp",
+    "https://svoydom.kz/upload/svdom_webp/pqv2hhya67r2a5dsko4qtj10wovva84i-eca5343f0af4.webp",
+    "https://svoydom.kz/upload/svdom_webp/nn6rrqbp9fv0b9v7gf0epl5vb9kfh6f0-b2d7ca36505b.webp",
+    "https://svoydom.kz/upload/svdom_webp/3d1azn2t5fxcb1cc97fqojs3sgu1sl0g-db4cf5611636.webp"
+   ],
+   "description": "Жилой комплекс QAIYNDY - расположен в живописном уголке столицы, где природа дарит свои лучшие виды и умиротворение. Этот проект предназначен для тех, кто ценит гармонию с окружающей средой, красоту природы и комфорт современного жилья.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.368874309845,
+    51.165908912068
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "qaiyndy2",
+   "sourceId": 20759,
+   "iblockId": null,
+   "name": "QAIYNDY 2",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Чингиз Айтматов, 77/9а",
+   "district": null,
+   "url": "https://svoydom.kz/comfort_projects/qaiyndy2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/cuwch0binaaloz7hx4yotolss4eavbo4-284cf3961653.webp",
+    "https://svoydom.kz/upload/iblock/391/cuwch0binaaloz7hx4yotolss4eavbo4.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-dc1bc11e11b3.webp",
+    "https://svoydom.kz/upload/svdom_webp/wt276kavfaik1jra7au8png8er82wc5q-cbdd6d6c05c3.webp",
+    "https://svoydom.kz/upload/svdom_webp/016sf8ixiy5fgk4zge2yqm6efk64mn9n-04d757e06460.webp",
+    "https://svoydom.kz/upload/svdom_webp/b8s7t3ff0qv2m1qgjz3ak4g10gwaxt5d-11d9afcffe11.webp",
+    "https://svoydom.kz/upload/svdom_webp/deodpueloja3l247wkrbyujhyyl2xr7b-b5755059d324.webp",
+    "https://svoydom.kz/upload/svdom_webp/k94bi3iwh40puv9fdj4b1w0z8xp2u52m-c68fa6b87593.webp"
+   ],
+   "description": "Жилой комплекс QAIYNDY2 - расположен в живописном уголке столицы, где природа дарит свои лучшие виды и умиротворение.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.369953681049,
+    51.166492767048
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baisal",
+   "sourceId": 61508,
+   "iblockId": 121,
+   "name": "Baisal",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Жумекен Нажимеденов, 5Б",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/lp/astana/baisal/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/qh7y84b5gewqj91qd52e2369z7ux4w4b-ff7eeb88c17a.webp",
+    "https://svoydom.kz/upload/svdom_og/io2lb2l180d1288g8fk9sooy2mwi9b5j-6fd9c180e1c1.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/q1dwaw2r0lfxbgr8q9z9zytzc51uuxfs-d00417617c58.webp",
+    "https://svoydom.kz/upload/svdom_webp/jsjunpeu6ih8mq3d950ikexg3szxunby-441a9b3a0558.webp",
+    "https://svoydom.kz/upload/svdom_webp/pitm92wum0k8sp6t5jmrsni1bfaagw7c-4fb6a77cbc65.webp",
+    "https://svoydom.kz/upload/svdom_webp/v8l36z99c11vc97kj0fja6x8txa2qjgx-ad2982aaec1a.webp",
+    "https://svoydom.kz/upload/svdom_webp/06v98zdylpkdi17243qni6ifazh00xo0-4ff05d1d1feb.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 24103950,
+   "priceFromM2": 504000,
+   "rooms": [
+    1,
+    2,
+    3
+   ],
+   "coords": [
+    71.496031318911,
+    51.116144427526
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 25,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Baisal&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3
+    ],
+    "price": {
+     "min": 24103950,
+     "max": 51825900
+    },
+    "area": {
+     "min": 39.45,
+     "max": 100.05
+    },
+    "priceSqm": {
+     "min": 504000,
+     "max": 611000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "zhasotau",
+   "sourceId": 67035,
+   "iblockId": 140,
+   "name": "Zhas Otau",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "IV квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Шамши Калдаяков, 57/2",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/lp/astana/zhasotau/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/ylpkgdmyyqy22ujbihkyf3flrutc4keb-989c2d7222e9.webp",
+    "https://svoydom.kz/upload/landing/0d6/lm7lviwvzqbl3oasme9q6nn0eb6607nm.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/zqh62ztjwes2yb4w8vn8c66eoneo1pmr-4cdc29716670.webp",
+    "https://svoydom.kz/upload/landing/ca4/8dlf901b1d4yrt6t0km27mpbtjzavuad.jpg",
+    "https://svoydom.kz/upload/landing/f6b/2yxxs8n8d16pz3tv1sle51tmt8oyiq3k.jpg",
+    "https://svoydom.kz/upload/svdom_webp/gba8gontu9n2x6mgoeol42pdaenzpnen-15103718268d.webp",
+    "https://svoydom.kz/upload/svdom_webp/udvoqgj1p0k2je20xz367623utfyj5c1-91d7ca10a485.webp"
+   ],
+   "description": "жилой комплекс класса «комфорт», расположенный в городе Астана",
+   "priceFrom": 18609360,
+   "priceFromM2": 401000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.527917419674,
+    51.108513078473
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 17,
+   "apartmentsTotal": 228,
+   "apartmentsLoaded": 18,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Zhas%20Otau&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 18609360,
+     "max": 54222960
+    },
+    "area": {
+     "min": 38.56,
+     "max": 129.72
+    },
+    "priceSqm": {
+     "min": 401000,
+     "max": 498000
+    },
+    "floor": {
+     "min": 2,
+     "max": 17
+    }
+   }
+  },
+  {
+   "slug": "aisaule",
+   "sourceId": 68131,
+   "iblockId": 139,
+   "name": "AI SÄULE",
+   "city": "Астана",
+   "class": "Комфорт+",
+   "status": "строится",
+   "deadline": "III квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "улица Ч. Айтматова и Е-15",
+   "district": "Нура",
+   "url": "https://svoydom.kz/lp/astana/aisaule/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/41avj0my6h6nfqiskheqwhle90yr3j7c-2bdf4ab2d620.webp",
+    "https://svoydom.kz/upload/svdom_og/3p1wxruhplsbl1vmdm3wsktu1qrig0sz-2dae4708ae36.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/bd0je0b8p5intfrqao849s7szvt47byl-577fa087106d.webp",
+    "https://svoydom.kz/upload/svdom_webp/3p1wxruhplsbl1vmdm3wsktu1qrig0sz-d43f37453712.webp",
+    "https://svoydom.kz/upload/svdom_webp/zc5hjea9ewha21lijl60rofh99jfp9e7-b12044e941aa.webp",
+    "https://svoydom.kz/upload/svdom_webp/l0476nomeseu0okhsfap0jmtouzowys0-efabaaf574a6.webp",
+    "https://svoydom.kz/upload/svdom_webp/0zxjd5dxfpkc198bw8x6nmneqsmv5cx8-c2f688837700.webp"
+   ],
+   "description": "жилой комплекс класса «комфорт», расположенный в городе Астана",
+   "priceFrom": 19566160,
+   "priceFromM2": 433000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.364309,
+    51.127914
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 137,
+   "apartmentsLoaded": 12,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 19566160,
+     "max": 57959760
+    },
+    "area": {
+     "min": 36.51,
+     "max": 132.67
+    },
+    "priceSqm": {
+     "min": 433000,
+     "max": 587000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "783333",
+   "sourceId": 8154,
+   "iblockId": null,
+   "name": "ZHANA OMYR",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Аль-Фараби проспект, 7",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/783333/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/4rutye8qbkq7s5zciicvcfe2erv69hbf-6886c4c9e294.webp",
+    "https://svoydom.kz/upload/iblock/923/4rutye8qbkq7s5zciicvcfe2erv69hbf.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/4rutye8qbkq7s5zciicvcfe2erv69hbf-4e352fb80a16.webp",
+    "https://svoydom.kz/upload/svdom_webp/z50latzyq2r69wxkk06bo8hpw9itxt94-0aa4b1cc51d4.webp",
+    "https://svoydom.kz/upload/svdom_webp/kegxuz10m5p2o167mzx292su13dmq4yr-2b48904d8091.webp",
+    "https://svoydom.kz/upload/svdom_webp/no24q94pdlj084lt0iza20m7gyt1ukoa-d5d769f9c7b0.webp",
+    "https://svoydom.kz/upload/svdom_webp/5f5xymczaw7o1skrvq79u14aew0cc2sw-2012bbdc30e3.webp",
+    "https://svoydom.kz/upload/svdom_webp/j102nrlx15flv65a5e5mwqnvvwqq5u14-c89a4e19d5b3.webp"
+   ],
+   "description": "ZHANA ÖMYR - это не просто слова, это образ обновления и возможности, которые расцветают в нашем жилом комплексе.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4515134,
+    51.0995682
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "931750",
+   "sourceId": 8156,
+   "iblockId": null,
+   "name": "QOBYZ I",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Шамши Калдаяков, 25/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/931750/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/yl6jg2xphawdakeled2dznuvbgvozukc-fd3e78b838e7.webp",
+    "https://svoydom.kz/upload/svdom_og/yl6jg2xphawdakeled2dznuvbgvozukc-a4b175b643a7.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/yl6jg2xphawdakeled2dznuvbgvozukc-6f9b3acc2e63.webp",
+    "https://svoydom.kz/upload/svdom_webp/5axn60190mko08rbsceiherptc4uebwg-975232e7d49e.webp",
+    "https://svoydom.kz/upload/svdom_webp/q9wxavmuaclwhzypiwaf0nuze4kou703-3fc10ddcad1d.webp",
+    "https://svoydom.kz/upload/svdom_webp/mivnfp6qpot5igwq7vhv99phbt40mgmm-392bdf295631.webp",
+    "https://svoydom.kz/upload/svdom_webp/urvvxcx78exausbz02uns2l3t8jr5131-c81a21e91549.webp",
+    "https://svoydom.kz/upload/svdom_webp/mxcvmj2qac4bs3wbsga7vkcxz1vmeerc-fb682eaf8e80.webp"
+   ],
+   "description": "Жилой комплекс Qobyz – величие казахского наследия. Это уникальное пространство, где каждый элемент пронизан культурным наследием и вдохновением.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.5119117,
+    51.1102844
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "1035213",
+   "sourceId": 9772,
+   "iblockId": null,
+   "name": "AITAS",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Илияс Омаров, 12/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/1035213/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/fl764oljs68du2z6iux9b92npq7v3t44-b04a9913206a.webp",
+    "https://svoydom.kz/upload/iblock/648/fl764oljs68du2z6iux9b92npq7v3t44.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/fl764oljs68du2z6iux9b92npq7v3t44-1635ac3c2ac1.webp",
+    "https://svoydom.kz/upload/svdom_webp/sa4s2pdluf89jos4io8hfn7bmn3ndk0d-23aa04cfbd0e.webp",
+    "https://svoydom.kz/upload/svdom_webp/a9xhpgj0inxno5u9g3r0w2ze3z1f1rks-ac464c332e28.webp",
+    "https://svoydom.kz/upload/svdom_webp/4x3no7ftbnp41uw5573yqx2x7bfuubzz-338df117c2bb.webp",
+    "https://svoydom.kz/upload/svdom_webp/y3e8o998c8nxz4l2qx03c0d4qcwrfc41-2bb5d41750fe.webp",
+    "https://svoydom.kz/upload/svdom_webp/6trygb0ear299s5smg1b5wyho331ulg1-0d2fa9c5f23d.webp"
+   ],
+   "description": "AITAS – это казахское наследие, обладающее великим историческим значением в культуре казахского языка, олицетворяющий лунный свет. Это не просто жилой комплекс, это место, где ваши желания становятся живыми красками, воплощаясь в каждом уголке вашего дома.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.370861197504,
+    51.139791995155
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "1061833",
+   "sourceId": 10332,
+   "iblockId": null,
+   "name": "QOBYZ II",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Шамши Калдаяков, 25",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/1061833/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/yl6jg2xphawdakeled2dznuvbgvozukc-fd3e78b838e7.webp",
+    "https://svoydom.kz/upload/svdom_og/yl6jg2xphawdakeled2dznuvbgvozukc-a4b175b643a7.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/yl6jg2xphawdakeled2dznuvbgvozukc-6f9b3acc2e63.webp",
+    "https://svoydom.kz/upload/svdom_webp/5axn60190mko08rbsceiherptc4uebwg-975232e7d49e.webp",
+    "https://svoydom.kz/upload/svdom_webp/44wxoospieawyffoyi1e20971t3o78do-7b2c62fcc7a1.webp",
+    "https://svoydom.kz/upload/svdom_webp/urvvxcx78exausbz02uns2l3t8jr5131-c81a21e91549.webp",
+    "https://svoydom.kz/upload/svdom_webp/mxcvmj2qac4bs3wbsga7vkcxz1vmeerc-fb682eaf8e80.webp",
+    "https://svoydom.kz/upload/svdom_webp/p11a92sic42ibw3hv0bav56lih9645ar-bac7cd9aa1d0.webp"
+   ],
+   "description": "Жилой комплекс Qobyz ІІ очередь  – величие казахского наследия. Это уникальное пространство, где каждый элемент пронизан культурным наследием и вдохновением.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.491033870491,
+    51.114102898658
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "1067998",
+   "sourceId": 10375,
+   "iblockId": null,
+   "name": "ZHANA URPAQ",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Аль-Фараби проспект, 7/2",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/1067998/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/720mvdcfc0q97bw0hn0qnpwkhzskp0zh-950072ce697e.webp",
+    "https://svoydom.kz/upload/iblock/e3f/720mvdcfc0q97bw0hn0qnpwkhzskp0zh.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/720mvdcfc0q97bw0hn0qnpwkhzskp0zh-6e859adb348d.webp",
+    "https://svoydom.kz/upload/iblock/03f/z3qkh1vc46r7fm8hwza5ypx8by28i7j5.jpg",
+    "https://svoydom.kz/upload/svdom_webp/onjof6rceze1c5sw9fxmd8r7tm3ag1r8-49e3d5cc04cd.webp",
+    "https://svoydom.kz/upload/svdom_webp/4y2z5b2ek51d424a7lg3o3fqjteovnoa-98ccd459b7ea.webp",
+    "https://svoydom.kz/upload/svdom_webp/rrmp1lg2itu13ve78eb6brc0xj3lwe04-1e036d4ec30c.webp",
+    "https://svoydom.kz/upload/svdom_webp/d1z0qcznk169qg0m660w11qemmg85v9t-4cf1c6a377a8.webp"
+   ],
+   "description": "ZHANA URPAQ - жилой комплекс комфорт плюс класса, где основное внимание уделено созданию комфортной обстановки для воспитания нового поколения.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.449564299475,
+    51.100303007097
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "altyn_adam",
+   "sourceId": 14805,
+   "iblockId": null,
+   "name": "ALTYN ADAM",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Улица Керей-Жанибек хандар, 44/4",
+   "district": null,
+   "url": "https://svoydom.kz/business_projects/altyn_adam/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/mkk9l2m3bgvaq0531w0kgj8sm7gevhjf-e890a426f66e.webp",
+    "https://svoydom.kz/upload/iblock/81c/mkk9l2m3bgvaq0531w0kgj8sm7gevhjf.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/about-slider-img1-f60cb3fdc45e.webp",
+    "https://svoydom.kz/upload/svdom_webp/about-slider-img2-0d8f2202d0bc.webp",
+    "https://svoydom.kz/upload/svdom_webp/003_POST-2-39122540b5a1.webp",
+    "https://svoydom.kz/upload/svdom_webp/Group-e8f9f258a971.webp",
+    "https://svoydom.kz/upload/svdom_webp/002_POST-13f4e9f1f868.webp",
+    "https://svoydom.kz/upload/svdom_webp/Frame1-19f0fcd00058.webp"
+   ],
+   "description": "ЖК ALTYN ADAM — жилой комплекс в Астане. Срок сдачи: IV квартал 2024 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4458069,
+    51.1042815
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "aqterek",
+   "sourceId": 54333,
+   "iblockId": 85,
+   "name": "Aqterek",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Кайым Мухамедханов, 43/1",
+   "district": "Нура",
+   "url": "https://svoydom.kz/lp/astana/aqterek/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/h1867g96rzq79w3kuw7ynl2nwgaulpf6-33b0ee4e4411.webp",
+    "https://svoydom.kz/upload/landing/737/m5eztkell06d9n4p77tyviny0fnhfevy.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/rf25p1eu3e1gbl869bfsyeww3yi03sbb-70956f1699c2.webp",
+    "https://svoydom.kz/upload/svdom_webp/jio7g1yub8urfbdl6lpv0p31joz04aq3-cb34c6468d8d.webp",
+    "https://svoydom.kz/upload/svdom_webp/1yyg37g8d24u05sy9czs07bzn6rneore-b31fc2c58025.webp",
+    "https://svoydom.kz/upload/svdom_webp/4bj29x0edjsjsv4khk8n0jmpnjv60d8w-32797753dc3a.webp",
+    "https://svoydom.kz/upload/svdom_webp/Magnum31_bird2-9332e30316ad.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 20240000,
+   "priceFromM2": 444000,
+   "rooms": [
+    1,
+    2,
+    3
+   ],
+   "coords": [
+    71.358179292349,
+    51.146089525712
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 111,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Aqterek&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3
+    ],
+    "price": {
+     "min": 20240000,
+     "max": 44532600
+    },
+    "area": {
+     "min": 36.51,
+     "max": 93.67
+    },
+    "priceSqm": {
+     "min": 444000,
+     "max": 583000
+    },
+    "floor": {
+     "min": 1,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "aqterek_2",
+   "sourceId": 58973,
+   "iblockId": 86,
+   "name": "Aqterek 2",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Кайым Мухамедханов, 43",
+   "district": "Нура",
+   "url": "https://svoydom.kz/lp/astana/aqterek_2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/s6y78wj10e88e3fsmh7kg57ydik2mogo-f041c79756bc.webp",
+    "https://svoydom.kz/upload/landing/737/m5eztkell06d9n4p77tyviny0fnhfevy.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/1xm69tdn1yz849pwng4u227jmw18wp1p-121bffdcba3e.webp",
+    "https://svoydom.kz/upload/svdom_webp/jio7g1yub8urfbdl6lpv0p31joz04aq3-cb34c6468d8d.webp",
+    "https://svoydom.kz/upload/svdom_webp/1yyg37g8d24u05sy9czs07bzn6rneore-b31fc2c58025.webp",
+    "https://svoydom.kz/upload/svdom_webp/4bj29x0edjsjsv4khk8n0jmpnjv60d8w-32797753dc3a.webp",
+    "https://svoydom.kz/upload/svdom_webp/Magnum31_bird2-9332e30316ad.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 20263050,
+   "priceFromM2": 442000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.360462581282,
+    51.145937562274
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 179,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Aqterek&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 20263050,
+     "max": 63964990
+    },
+    "area": {
+     "min": 36.51,
+     "max": 140.08
+    },
+    "priceSqm": {
+     "min": 442000,
+     "max": 592000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "asyl_meken",
+   "sourceId": 61381,
+   "iblockId": 123,
+   "name": "ASYL MEKEN",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Е - 429, 12е",
+   "district": "Нура",
+   "url": "https://svoydom.kz/lp/astana/asyl_meken/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/uw7md30j8f942ir2q7squhxt4l3kciuj-ba2206cb2aa5.webp",
+    "https://svoydom.kz/upload/landing/3ea/disqyczmecf6ejldx6ro4kzz145m46wa.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/1ubh7vm1pk90zdw56uwcaeoxaom913ey-dd29314ebe17.webp",
+    "https://svoydom.kz/upload/svdom_webp/qm6t7dpbnx870w71nzmmi535ckulp7wl-75970e151f78.webp",
+    "https://svoydom.kz/upload/svdom_webp/dkjh5twe47mzbvx2kafssaav90dk21yq-cad4f767924f.webp",
+    "https://svoydom.kz/upload/svdom_webp/uovsr7h54z58lj49x5lzzktj6t450n6v-533aed2e051e.webp",
+    "https://svoydom.kz/upload/svdom_webp/asyl-7970cd12ba7f.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 23467360,
+   "priceFromM2": 456000,
+   "rooms": [
+    1,
+    2,
+    3
+   ],
+   "coords": [
+    71.361674104939,
+    51.141798080525
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 30,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Asyl%20Meken&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3
+    ],
+    "price": {
+     "min": 23467360,
+     "max": 42239280
+    },
+    "area": {
+     "min": 36.44,
+     "max": 92.63
+    },
+    "priceSqm": {
+     "min": 456000,
+     "max": 644000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "768835",
+   "sourceId": 8150,
+   "iblockId": null,
+   "name": "KÖLSAI",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Район улицы Ш.Айтматова",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/768835/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/3ihxm5936fde2rzbuwzsmey8yy3mcd0x-072e26e6ca29.webp",
+    "https://svoydom.kz/upload/iblock/ef7/3ihxm5936fde2rzbuwzsmey8yy3mcd0x.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/3ihxm5936fde2rzbuwzsmey8yy3mcd0x-ff5d6427d640.webp",
+    "https://svoydom.kz/upload/svdom_webp/cinvx0dfa8kkvbcheum2p0g81detouf5-b93dbaff805b.webp",
+    "https://svoydom.kz/upload/svdom_webp/9bpnj1jm35atgkrzy0xd0d9dw7x9qliq-abdde7bcbe94.webp",
+    "https://svoydom.kz/upload/svdom_webp/sk5183u9y9s7mzqr9okf7eocp0ucvwli-e3333db22f5f.webp",
+    "https://svoydom.kz/upload/svdom_webp/qiiwxjf970i6nhy0bjjy8hhyit8rg5sb-6c3dd076c3fa.webp",
+    "https://svoydom.kz/upload/svdom_webp/ffxd7i99p3f5anx27y1tijftp27bqfwy-551e1c346c02.webp"
+   ],
+   "description": "Проект развития жилого массива с собственной инфраструктурой и концепцией город в городе предлагает всё для комфортной жизни.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3687545,
+    51.167137
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "822553",
+   "sourceId": 8157,
+   "iblockId": null,
+   "name": "IZET",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "улица Бухар Жырау, рядом “Binom School им. Қадыр Мырза Әлі”",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/822553/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/nkj3quv1k74av3gj530ctf6mg6yhbavf-5353a65b7ab8.webp",
+    "https://svoydom.kz/upload/svdom_og/nkj3quv1k74av3gj530ctf6mg6yhbavf-497224bffbb2.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/nkj3quv1k74av3gj530ctf6mg6yhbavf-c147930b3185.webp",
+    "https://svoydom.kz/upload/svdom_webp/ydp6ok9ixha31ertefyf0hkpdfmwvy1d-4bfabcfd1898.webp",
+    "https://svoydom.kz/upload/svdom_webp/q6j7tht5o3kmlr64ekwn0lluotuyrq1s-ece75af94d35.webp",
+    "https://svoydom.kz/upload/svdom_webp/mh13l32bcfqobtijblmwx5qf38ou2zwc-ce3302908d48.webp",
+    "https://svoydom.kz/upload/svdom_webp/unvyz5esj953e82qjxtf6rfuagbi0y68-6d6f1d96469a.webp",
+    "https://svoydom.kz/upload/svdom_webp/jzjk17zvzj5reil8n1j1aqul0rkgow5m-02fabc99ebd0.webp"
+   ],
+   "description": "IZET - это душевная ценность, сияющая в сердцах казахского народа, олицетворяющая глубокую привязанность к нашей истории, культуре и традициям.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4005808,
+    51.1036573
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "baiqadam",
+   "sourceId": 52931,
+   "iblockId": 81,
+   "name": "Baiqadam",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "IV квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Улица Жумекен Нажимеденов, 6",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/lp/astana/baiqadam/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/u6mktxfm2j7fyj00i7ylb8094x9cipwh-3e6d01c91552.webp",
+    "https://svoydom.kz/upload/landing/9c7/y4ye5kn774uo0mwrjgv5mvkp2iozv0os.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/glylw30u2g05a40ofnjol10h0wag1uy8-4aeab7235948.webp",
+    "https://svoydom.kz/upload/svdom_webp/whkdv99qcvbia76lp3infxrtd5z7cxb0-55eb0e4d7052.webp",
+    "https://svoydom.kz/upload/svdom_webp/kq6ceq6q4jc7ey6wg2lzm9dpjv93pc78-39a275231b8b.webp",
+    "https://svoydom.kz/upload/svdom_webp/g9yofay7frrzfbyso77bbxt76215r9k0-f2e3f18e2434.webp",
+    "https://svoydom.kz/upload/svdom_webp/Baiqadam_Facade-0ba1496dd97c.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 34866900,
+   "priceFromM2": 570000,
+   "rooms": [
+    2
+   ],
+   "coords": [
+    71.495067111021,
+    51.116562596157
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 1,
+   "apartmentsLoaded": 1,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Baiqadam&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     2
+    ],
+    "price": {
+     "min": 34866900,
+     "max": 34866900
+    },
+    "area": {
+     "min": 61.17,
+     "max": 61.17
+    },
+    "priceSqm": {
+     "min": 570000,
+     "max": 570000
+    },
+    "floor": {
+     "min": 12,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "elaman",
+   "sourceId": 59772,
+   "iblockId": 124,
+   "name": "Elaman",
+   "city": "Астана",
+   "class": "Комфорт+",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Шәмші Қалдаяқов, 53",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/lp/astana/elaman/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/ybjoc7rrgt6swjon37j7oj7inwr6yhf9-70ae57a1c7e3.webp",
+    "https://svoydom.kz/upload/landing/2eb/cqylmvx9mxrhm1ifxhpqoi9kxst75a67.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/vcb8j7nmfl9u0g9gn760oe9t95np61ed-335e287005b3.webp",
+    "https://svoydom.kz/upload/svdom_webp/othwr4ar3gu3m627emtp9vtro8si7b4f-2712f15a052e.webp",
+    "https://svoydom.kz/upload/svdom_webp/z515p8016h3ztdv8iielec6thi6uxqdh-41984425a014.webp",
+    "https://svoydom.kz/upload/svdom_webp/1n2gs1jth04sufasj8irf5mz0aox334x-8f8fac1f2f14.webp",
+    "https://svoydom.kz/upload/svdom_webp/elaman_lrt-96c1ed5fedcd.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 24267500,
+   "priceFromM2": 466000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.524965517194,
+    51.10912909938
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 9,
+   "apartmentsTotal": 36,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Elaman&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 24267500,
+     "max": 59643000
+    },
+    "area": {
+     "min": 42.5,
+     "max": 117.5
+    },
+    "priceSqm": {
+     "min": 466000,
+     "max": 571000
+    },
+    "floor": {
+     "min": 2,
+     "max": 9
+    }
+   }
+  },
+  {
+   "slug": "823448",
+   "sourceId": 8152,
+   "iblockId": null,
+   "name": "ZHANA ALEM",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2024",
+   "deadlineYear": 2024,
+   "address": "Аль-Фараби проспект, 5",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/823448/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/el6h2ip6sbu0mc4077ksqncu407okqvr-b381a4283258.webp",
+    "https://svoydom.kz/upload/iblock/ad7/el6h2ip6sbu0mc4077ksqncu407okqvr.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/el6h2ip6sbu0mc4077ksqncu407okqvr-b5ef93f003ab.webp",
+    "https://svoydom.kz/upload/svdom_webp/d2br8ci118nf9xehe1a40799tnxvpmh3-99abeb11a5ed.webp",
+    "https://svoydom.kz/upload/svdom_webp/b16fd9ukjzg8hu2crpnfzg8tspdkxspn-bc0c89850fe2.webp",
+    "https://svoydom.kz/upload/svdom_webp/bxwyhrox70kok75kccbtntilq9la9r22-b402e6abe6be.webp",
+    "https://svoydom.kz/upload/svdom_webp/ovntdkwyrmztu7m3pdpj6v57kn86vk9x-16bbd15906de.webp",
+    "https://svoydom.kz/upload/svdom_webp/8ougyjwao50a4nxq4quzohxzdb1li1hf-f51ead77409f.webp"
+   ],
+   "description": "Жилой комплекс \"Zhana Alem\" представляет объединяющий, современный стиль архитектуры с элементами казахских орнаментов.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4518314,
+    51.1004908
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "720507",
+   "sourceId": 8151,
+   "iblockId": null,
+   "name": "ZAMAN",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Бухар жырау, 27",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/720507/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/9jdbhn6l21djxjfdm09zfokiy0rk7ydm-677eea4d7341.webp",
+    "https://svoydom.kz/upload/iblock/b35/9jdbhn6l21djxjfdm09zfokiy0rk7ydm.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/9jdbhn6l21djxjfdm09zfokiy0rk7ydm-132491cd3557.webp",
+    "https://svoydom.kz/upload/svdom_webp/4abtm5gx8ieqlar1o8bp4foa4p0lin9k-1273608435ee.webp",
+    "https://svoydom.kz/upload/svdom_webp/6zl7pqzz4fp8evmdduy2ow01u18w14we-384bc215b711.webp",
+    "https://svoydom.kz/upload/svdom_webp/9poq4ipb372499l666sgf92re4hldq4j-5f1ea7380f98.webp",
+    "https://svoydom.kz/upload/svdom_webp/bpzda5m3e0c4m1d39k8ua9m60e0pv82p-d9020b059fe2.webp",
+    "https://svoydom.kz/upload/svdom_webp/ccb3xc6eq1l277fo3ay0734at6hpptg8-a5a873b5f843.webp"
+   ],
+   "description": "Жилой комплекс ZAMAN – это уникальное сочетание современности и национального стиля, расположенный в одном из наиболее перспективных районов города - в квадрате ул. 38, ул. Керей-Жанибек хандар и ул. Бухар Жырау.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4408041,
+    51.0987933
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "601253",
+   "sourceId": 8180,
+   "iblockId": null,
+   "name": "ALTYN SAPA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Кайым Мухамедханов, 12",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/601253/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/y5482l1h732cc7jbe2krnw4odlvxc7zq-45536396cbec.webp",
+    "https://svoydom.kz/upload/iblock/a26/y5482l1h732cc7jbe2krnw4odlvxc7zq.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/y5482l1h732cc7jbe2krnw4odlvxc7zq-7fd061087a65.webp",
+    "https://svoydom.kz/upload/svdom_webp/4lxvemwb002rm36utkfsc8ss5kunb2ll-6618d87c61d7.webp",
+    "https://svoydom.kz/upload/svdom_webp/i0j8hcbjk5vabdn121dk7bq2nf7gx2i0-e8d9e118bc72.webp",
+    "https://svoydom.kz/upload/svdom_webp/sdf698d7588zipk1k62g8oue144rgual-13c39988f158.webp",
+    "https://svoydom.kz/upload/svdom_webp/w065bfpq8plwthegnth8xkcsf3b7iphr-3ef5e86bbee3.webp",
+    "https://svoydom.kz/upload/svdom_webp/kglm2cujd93xx6qi9uyoc91omi9xu1dt-f7f4dc7f049d.webp"
+   ],
+   "description": "Жилой комплекс сочетает в себе уникальную концепцию, продуманные планировочные решения, удобное благоустройство территории и развитую инфраструктуру. Жилой комплекс Altyn Sapa – это территория комфорта для людей, которые выбирают удобство, уют и спокойствие.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.378717,
+    51.1402501
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "arman_meken",
+   "sourceId": 51221,
+   "iblockId": 84,
+   "name": "Arman Meken",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "I квартал 2027 года",
+   "deadlineYear": 2027,
+   "address": "Улица Е-429, 12д",
+   "district": "Нура",
+   "url": "https://svoydom.kz/lp/astana/arman_meken/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/kobn06844w32yurtk41chs1cfzrxwwvx-bcf13e627ae4.webp",
+    "https://svoydom.kz/upload/landing/c9d/y3jg5ydkzwjj88qonkrartgze0r127eh.jpg",
+    "https://svoydom.kz/upload/resize_cache/landing/eec/16_16_2/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/landing/eec/1v31zr0nb4oubjhrmkfywglxe2de5qeo.png",
+    "https://svoydom.kz/upload/svdom_webp/s032g7wjpgv2f9u3x287kixus3a3sxao-397cf3640432.webp",
+    "https://svoydom.kz/upload/svdom_webp/dx1iz0fd7ssppy5hpb8i5auz722zolj5-1f0f886e52c3.webp",
+    "https://svoydom.kz/upload/svdom_webp/le2pk2s7tfkd82ybv6qunvgcjz840cm5-3c9bb5961a99.webp",
+    "https://svoydom.kz/upload/svdom_webp/s0ci3dx6id1qynfw92ros2bj8n61neu7-6ee5929ca0ea.webp",
+    "https://svoydom.kz/upload/svdom_webp/q1blerqc4ysh14rsv8r717f449sa8614-cdd58b1344ab.webp",
+    "https://svoydom.kz/upload/svdom_webp/0a3hvk2hs3fyb6rfm39ew2f19ddcue5l-173ab6517f99.webp"
+   ],
+   "description": "жилой комплекс класса «Комфорт», расположенный в городе Астана",
+   "priceFrom": 21363370,
+   "priceFromM2": 446000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.362337131768,
+    51.141581755502
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 17,
+   "apartmentsTotal": 38,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Arman%20Meken&hct=skin_sidebar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 21363370,
+     "max": 55333100
+    },
+    "area": {
+     "min": 36,
+     "max": 117.73
+    },
+    "priceSqm": {
+     "min": 446000,
+     "max": 596000
+    },
+    "floor": {
+     "min": 2,
+     "max": 17
+    }
+   }
+  },
+  {
+   "slug": "qadam",
+   "sourceId": 50227,
+   "iblockId": 83,
+   "name": "Qadam",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "IV квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Улица Чингиз Айтматов, 30а",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/qadam/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/2c75rwqpco9ger3hx2hxb2wi8wkaf2kh-963f21673a9c.webp",
+    "https://svoydom.kz/upload/iblock/be7/2c75rwqpco9ger3hx2hxb2wi8wkaf2kh.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/project-img-3822677759dd.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img1-d15d2f96870d.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img2-3c626d431c96.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img3-0b0992a35e1f.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img4-2b8bb7f923f5.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img5-75662e9c62b2.webp"
+   ],
+   "description": "ЖК Qadam — жилой комплекс в Астане, район Район Нура. Срок сдачи: IV квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 23018120,
+   "priceFromM2": 483000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.35949698604,
+    51.123770243576
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 40,
+   "apartmentsLoaded": 12,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 23018120,
+     "max": 60574400
+    },
+    "area": {
+     "min": 39.08,
+     "max": 118.27
+    },
+    "priceSqm": {
+     "min": 483000,
+     "max": 648000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "115143",
+   "sourceId": 8178,
+   "iblockId": null,
+   "name": "TANDAU I",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "проспект Туран, 34а",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115143/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/dfhb525hh13qpaqndy0bxeifmg71fmpd-bbce4ac6bfbe.webp",
+    "https://svoydom.kz/upload/iblock/f82/dfhb525hh13qpaqndy0bxeifmg71fmpd.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/dfhb525hh13qpaqndy0bxeifmg71fmpd-537fe45efdd5.webp",
+    "https://svoydom.kz/upload/svdom_webp/av2b2ue2429ca12d4xt5f4qadm1t8966-6e46d5e82b72.webp",
+    "https://svoydom.kz/upload/svdom_webp/0qv3dtk8tgluwtipke25u38dxp3gg6mg-0ff5351b811f.webp",
+    "https://svoydom.kz/upload/svdom_webp/r711feyf45xh0au98sohg8ep3frns88x-7f2b069f235f.webp",
+    "https://svoydom.kz/upload/svdom_webp/sjfw6cokpujw58v86skyniabl1odjhdz-498ee8c054cb.webp",
+    "https://svoydom.kz/upload/svdom_webp/0oicm3fo6hzq1z7jy7xt8dc50mf43unp-a92f0330cb3c.webp"
+   ],
+   "description": "В лучшей локации левого берега, на пересечении улицы Ғ. Тоқай и проспекта Туран, расположен фундаментальный жилой комплекс ТANDAU.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.405050364435,
+    51.121606836465
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "gauhartas1",
+   "sourceId": 49988,
+   "iblockId": 70,
+   "name": "Gauhartas 1",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "III квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Проспект Улы Дала, 38/1",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/gauhartas1/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/47rpdhgc5lf7ibphhbj8o0rk8eemy1v9-2404cfabc11c.webp",
+    "https://svoydom.kz/upload/iblock/358/47rpdhgc5lf7ibphhbj8o0rk8eemy1v9.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img1-8642d901cec2.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img2-88d6a924b5b3.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img3-d97c059e9a04.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img4-1a9d3f9b7aea.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img5-8eaee0f50c32.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img6-f312b5f16cd2.webp"
+   ],
+   "description": "ЖК Gauhartas 1 — жилой комплекс в Астане, район Район Нура. Срок сдачи: III квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 26662500,
+   "priceFromM2": 544000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.383014296446,
+    51.101104769015
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 10,
+   "apartmentsLoaded": 10,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 26662500,
+     "max": 73228600
+    },
+    "area": {
+     "min": 39.5,
+     "max": 130.3
+    },
+    "priceSqm": {
+     "min": 544000,
+     "max": 675000
+    },
+    "floor": {
+     "min": 2,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "shalqar",
+   "sourceId": 46555,
+   "iblockId": 78,
+   "name": "Shalqar",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "IV квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Улица Чингиз Айтматов, 77/11",
+   "district": "Сарыарка",
+   "url": "https://svoydom.kz/comfort_projects/shalqar/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/mh7k3z0sqw5jbplunt8iq8ai63himyzl-a8ce886c05fa.webp",
+    "https://svoydom.kz/upload/iblock/2d5/mh7k3z0sqw5jbplunt8iq8ai63himyzl.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img1-f9a1d18d9e7c.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img1-a824ec1a2a07.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img2-49ce7a17b266.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img2-2b8bd9d3c77a.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img3-a40b7cb969f8.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img3-8c2321217f3e.webp"
+   ],
+   "description": "ЖК Shalqar — жилой комплекс в Астане, район Район Сарыарка. Срок сдачи: IV квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 20124990,
+   "priceFromM2": 447000,
+   "rooms": [
+    1,
+    2,
+    3
+   ],
+   "coords": [
+    71.370781597462,
+    51.168358401197
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 78,
+   "apartmentsLoaded": 12,
+   "tour3d": "https://3d.svoydom.kz/?media-name=Shalqar",
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3
+    ],
+    "price": {
+     "min": 20124990,
+     "max": 34779350
+    },
+    "area": {
+     "min": 38.58,
+     "max": 71.71
+    },
+    "priceSqm": {
+     "min": 447000,
+     "max": 558000
+    },
+    "floor": {
+     "min": 1,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "8205",
+   "sourceId": 8205,
+   "iblockId": null,
+   "name": "TANDAU II",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "проспект Туран, 34а стр",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8205/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/9cvn9curmue1yrh981iu0k9mjqe2e2f4-5b230a5c4617.webp",
+    "https://svoydom.kz/upload/iblock/ee2/9cvn9curmue1yrh981iu0k9mjqe2e2f4.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/9cvn9curmue1yrh981iu0k9mjqe2e2f4-dcd353c53674.webp",
+    "https://svoydom.kz/upload/svdom_webp/z1gf5mc8metdwgmoquqgftoubnl62ubm-ae674a0f2798.webp",
+    "https://svoydom.kz/upload/svdom_webp/rjcenbph01gwz3gicf5yp5r6meeosv9u-e84138acd4cc.webp",
+    "https://svoydom.kz/upload/svdom_webp/4ncg1kmkmt2p2mya3m09n9hv4q6o4asi-f9b0873d7337.webp",
+    "https://svoydom.kz/upload/svdom_webp/rpxy5uvae3paix7fs0s105nbd99cyiq9-bb8e04714629.webp",
+    "https://svoydom.kz/upload/svdom_webp/0kllres1wwhar7qzscxik3wq9f8j9dfr-8b62a62d4bdc.webp"
+   ],
+   "description": "В лучшей локации левого берега, на пересечении улицы Ғ. Тоқай и проспекта Туран, расположен фундаментальный жилой комплекс ТANDAU.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.405284558639,
+    51.121535247419
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "gauhartas",
+   "sourceId": 43067,
+   "iblockId": 76,
+   "name": "Gauhartas 2",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "2026",
+   "deadlineYear": 2026,
+   "address": "Проспект Улы Дала, 38а",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/gauhartas/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/qogc0dapz0trj519npc1wl94wqlb2mo6-a143ffc0660c.webp",
+    "https://svoydom.kz/upload/svdom_og/qogc0dapz0trj519npc1wl94wqlb2mo6-bb8494901e35.jpg",
+    "https://svoydom.kz/upload/svdom_webp/about-img-de4f3769fb92.webp",
+    "https://svoydom.kz/upload/svdom_webp/about-img-bd33288f4d96.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img-fa53fd6ebc6f.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img-6b8f631b258b.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-image1-44e479ded392.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-image2-83aaf4b7bb8d.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img1-ddde90adcfb6.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img2-0fc86ce1b930.webp"
+   ],
+   "description": "ЖК Gauhartas 2 — жилой комплекс в Астане, район Район Нура. Срок сдачи: 3 квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 22433400,
+   "priceFromM2": 492000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.38234048759,
+    51.099985278858
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 10,
+   "apartmentsTotal": 11,
+   "apartmentsLoaded": 11,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     1,
+     2,
+     3
+    ],
+    "price": {
+     "min": 24016000,
+     "max": 53692800
+    },
+    "area": {
+     "min": 38.7,
+     "max": 95.2
+    },
+    "priceSqm": {
+     "min": 564000,
+     "max": 650000
+    },
+    "floor": {
+     "min": 1,
+     "max": 10
+    }
+   }
+  },
+  {
+   "slug": "448913",
+   "sourceId": 8161,
+   "iblockId": null,
+   "name": "SHARYN",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Чингиз Айтматов, 77",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/448913/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/ryl6u2nrnroxm51v2fmyo58k3me0fisq-5c2c7364f0ad.webp",
+    "https://svoydom.kz/upload/iblock/cb3/ryl6u2nrnroxm51v2fmyo58k3me0fisq.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/ryl6u2nrnroxm51v2fmyo58k3me0fisq-c0a69a55e6cb.webp",
+    "https://svoydom.kz/upload/svdom_webp/fmdf1jnp451two307kmtx6jgqgudt6lv-475a55505fea.webp",
+    "https://svoydom.kz/upload/svdom_webp/opdk26510p9zyys2ak3hjf8g9fkz3fc3-d5a9cc1283e5.webp",
+    "https://svoydom.kz/upload/svdom_webp/81wr3m6dzc8cr1g3z3nmgcr33cti58od-5ad1ec8cb474.webp",
+    "https://svoydom.kz/upload/svdom_webp/cngfj9ojcs9rtil5f95pjmc21kg6hnyd-cdf741df5877.webp",
+    "https://svoydom.kz/upload/svdom_webp/rd3rzmi3qrmei04wzmp7dqjad4sojjnv-e1925dcc146a.webp"
+   ],
+   "description": "Собственная многофункциональная аллея, школа, детский сад, выход на набережную реки Есиль — это основные важные преимущества и удобства для будущих жителей жилого массива, собранные в одной идее.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3742178,
+    51.1664163
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "abat",
+   "sourceId": 33792,
+   "iblockId": null,
+   "name": "ABAT",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2026",
+   "deadlineYear": 2026,
+   "address": "Улица Жошы хан, 12/3",
+   "district": "Есиль",
+   "url": "https://svoydom.kz/comfort_projects/abat/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/qvc85wmnuk0kpc4gccr61nkzk1h9bqzv-ce0a06dbd95c.webp",
+    "https://svoydom.kz/upload/iblock/f41/qvc85wmnuk0kpc4gccr61nkzk1h9bqzv.jpg",
+    "https://svoydom.kz/upload/svdom_webp/menu-image-a1a060dacd29.webp",
+    "https://svoydom.kz/upload/svdom_webp/menu-image-f22c67fec152.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-img11-a4214671cac2.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-img22-7a2f9600f884.webp",
+    "https://svoydom.kz/upload/svdom_webp/info-img3-215b6270d702.webp",
+    "https://svoydom.kz/upload/svdom_webp/abat-14c0924e643b.webp",
+    "https://svoydom.kz/upload/svdom_webp/abat-4b91a9fc2095.webp",
+    "https://svoydom.kz/upload/svdom_webp/information-img1-b740a7bb68d2.webp"
+   ],
+   "description": "ЖК ABAT — жилой комплекс в Астане, район Есильский район. Срок сдачи: 1 квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 34523000,
+   "priceFromM2": 762000,
+   "rooms": [
+    1,
+    3
+   ],
+   "coords": [
+    71.441271646599,
+    51.101961306596
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "araily",
+   "sourceId": 43064,
+   "iblockId": 77,
+   "name": "Araily",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "III квартал 2026 год",
+   "deadlineYear": 2026,
+   "address": "Улица Жумекен Нажимеденов, 5",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/comfort_projects/araily/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/b17q9ko2o3t1v77ob8411evzjlviae0w-5a4e7d3c7e59.webp",
+    "https://svoydom.kz/upload/iblock/d06/b17q9ko2o3t1v77ob8411evzjlviae0w.jpg",
+    "https://svoydom.kz/upload/svdom_webp/slider-img4-0d3253715bca.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img4-2a9e51cd2387.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img5-c6186c57ea0f.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img5-042b56885be9.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img6-7b3dadbe7464.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img6-8308b8a07b2f.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img7-f95c2ed6e9de.webp",
+    "https://svoydom.kz/upload/svdom_webp/slider-img7-e0211138cb14.webp"
+   ],
+   "description": "ЖК Araily — жилой комплекс в Астане, район Район Сарайшык. Срок сдачи: III квартал 2026 год. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 32362800,
+   "priceFromM2": 534000,
+   "rooms": [
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.492117506609,
+    51.11687975393
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 6,
+   "apartmentsLoaded": 6,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     2,
+     3,
+     4
+    ],
+    "price": {
+     "min": 32362800,
+     "max": 68886000
+    },
+    "area": {
+     "min": 54.3,
+     "max": 129
+    },
+    "priceSqm": {
+     "min": 534000,
+     "max": 615000
+    },
+    "floor": {
+     "min": 6,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "464789",
+   "sourceId": 8179,
+   "iblockId": null,
+   "name": "ANAR",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Орынбор, 13",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/464789/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/wrntx7x8ci3zpx7fbb1rqol25p6y44er-4984375c1d06.webp",
+    "https://svoydom.kz/upload/iblock/fb9/wrntx7x8ci3zpx7fbb1rqol25p6y44er.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/wrntx7x8ci3zpx7fbb1rqol25p6y44er-48c1adc2f68b.webp",
+    "https://svoydom.kz/upload/svdom_webp/d7100pvrfvw4m1r1eg9zesgdjft582nr-0c93260bd700.webp",
+    "https://svoydom.kz/upload/svdom_webp/gt7ogkxoqsjh0vb7gdzqs1omr69unio8-4845796fd4e4.webp",
+    "https://svoydom.kz/upload/svdom_webp/gc8euvyl327wg1i8chn1a5zox1hf6i6r-941631332376.webp",
+    "https://svoydom.kz/upload/svdom_webp/loy3jjq60pmh174mva0jxb6pul0tecvs-7b66caf6600c.webp",
+    "https://svoydom.kz/upload/svdom_webp/xt8xqzpfevrw7ellr4wtvo5kwqre5c04-a974487ff524.webp"
+   ],
+   "description": "ЖК ANAR- полный жизненной силы и очарования, открывает для его жителей всё самое лучшее.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4392642,
+    51.1082379
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "tansu",
+   "sourceId": 29900,
+   "iblockId": 80,
+   "name": "TANSU",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2026",
+   "deadlineYear": 2026,
+   "address": "Панфилова, 85",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/business_projects/tansu/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/pubp142dijjhhcx4ld9ybaeaw44n7sye-6b56fcd01747.webp",
+    "https://svoydom.kz/upload/iblock/a40/pubp142dijjhhcx4ld9ybaeaw44n7sye.jpg",
+    "https://svoydom.kz/upload/svdom_webp/home-banner-img-3c20ddd73a09.webp",
+    "https://svoydom.kz/upload/svdom_webp/tansu-bg-2c869f9d0922.webp",
+    "https://svoydom.kz/upload/svdom_webp/club-house-img1-e537c54c5d57.webp",
+    "https://svoydom.kz/upload/svdom_webp/club-house-img2-89ebe65696b4.webp",
+    "https://svoydom.kz/upload/svdom_webp/club-house-img3-09661f08fbf0.webp",
+    "https://svoydom.kz/upload/svdom_webp/circle-style-5e06ea37f8fc.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img1-27fecbc0b9eb.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img2-cb6eef644919.webp"
+   ],
+   "description": "ЖК TANSU — жилой комплекс в Астане, район Район Сарайшык. Срок сдачи: 1 квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 30096560,
+   "priceFromM2": 590000,
+   "rooms": [
+    1,
+    2,
+    3,
+    4
+   ],
+   "coords": [
+    71.500983051969,
+    51.105753153706
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 2,
+   "apartmentsTotal": 1,
+   "apartmentsLoaded": 1,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     2
+    ],
+    "price": {
+     "min": 41978300,
+     "max": 41978300
+    },
+    "area": {
+     "min": 65.9,
+     "max": 65.9
+    },
+    "priceSqm": {
+     "min": 637000,
+     "max": 637000
+    },
+    "floor": {
+     "min": 2,
+     "max": 2
+    }
+   }
+  },
+  {
+   "slug": "umit",
+   "sourceId": 40664,
+   "iblockId": 75,
+   "name": "Umit",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "3 квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Улица Жубан Молдагалиев, 6г",
+   "district": "Нура",
+   "url": "https://svoydom.kz/comfort_projects/umit/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/x7v7666lb8jppl3g4mpgrtbz28894pmi-6bccbf9a2a93.webp",
+    "https://svoydom.kz/upload/iblock/bff/x7v7666lb8jppl3g4mpgrtbz28894pmi.jpg",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/about-img-87f7b8d24cdd.webp",
+    "https://svoydom.kz/upload/svdom_webp/about-img-eb4baca7c49b.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img1-45403ab4bbe7.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img2-96fd2086028c.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img3-536e8e123b81.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img4-f34b68c1e1ca.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantedes-img5-6a91a8674bca.webp"
+   ],
+   "description": "ЖК Umit — жилой комплекс в Астане, район Район Нура. Срок сдачи: 3 квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.366288563999,
+    51.122971770414
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": 0,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [],
+    "price": {
+     "min": 0,
+     "max": 0
+    },
+    "area": {
+     "min": 0,
+     "max": 0
+    },
+    "priceSqm": {
+     "min": 0,
+     "max": 0
+    },
+    "floor": {
+     "min": 0,
+     "max": 0
+    }
+   }
+  },
+  {
+   "slug": "523310",
+   "sourceId": 8159,
+   "iblockId": null,
+   "name": "OTBASYM",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Култегин, 19/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/523310/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/zu44416ulvcpaqsk512h0ir4ujmkgpo8-c40aaee72871.webp",
+    "https://svoydom.kz/upload/iblock/340/zu44416ulvcpaqsk512h0ir4ujmkgpo8.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/zu44416ulvcpaqsk512h0ir4ujmkgpo8-406ad707975a.webp",
+    "https://svoydom.kz/upload/svdom_webp/13nz2s8tetxzj5jah2ldvra45k28iywf-5fe69cbe2fc8.webp",
+    "https://svoydom.kz/upload/svdom_webp/pfjx2d8hth5g9sn1q7z293i6irxlpf5u-f11fe9356eb8.webp",
+    "https://svoydom.kz/upload/svdom_webp/51m650yvdipygddldg6931auht3kllgr-58955b8a60ae.webp",
+    "https://svoydom.kz/upload/svdom_webp/5yze5jy0xtjizvq7te5bdd2w43w5ggqk-a9222c650ae7.webp",
+    "https://svoydom.kz/upload/svdom_webp/t2c9upimsuj1kj80ejz0tmkzn577vzez-844dddc51329.webp"
+   ],
+   "description": "В развивающемся районе левого берега вдоль ул. Ильяса Омарова, расположен современный жилой комплекс – Otbasym.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3728231,
+    51.1391171
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "altyn_emel",
+   "sourceId": 37378,
+   "iblockId": 79,
+   "name": "ALTYN EMEL",
+   "city": "Астана",
+   "class": "Комфорт",
+   "status": "строится",
+   "deadline": "3 квартал 2026 года",
+   "deadlineYear": 2026,
+   "address": "Улица Чингиз Айтматов, 79/1",
+   "district": "Сарыарка",
+   "url": "https://svoydom.kz/comfort_projects/altyn_emel/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/me8a1tvl4yv5wh94r6aj9dazfi0o1e5q-d829bd72e5fd.webp",
+    "https://svoydom.kz/local/templates/svdom_new/img/og-logo.png",
+    "https://svoydom.kz/upload/svdom_webp/menu-image-bf585fc5697e.webp",
+    "https://svoydom.kz/upload/svdom_webp/menu-image-4d7e5571c7db.webp",
+    "https://svoydom.kz/upload/svdom_webp/banner-img-96f116b29644.webp",
+    "https://svoydom.kz/upload/svdom_webp/harmony-small-img-bdec0a51df5e.webp",
+    "https://svoydom.kz/upload/svdom_webp/harmony-img-28aa60de3b0b.webp",
+    "https://svoydom.kz/upload/svdom_webp/images-img1-7ee077cc1f88.webp",
+    "https://svoydom.kz/upload/svdom_webp/div1-img-0589e6a8bc23.webp",
+    "https://svoydom.kz/upload/svdom_webp/div2-img-43271bb41999.webp"
+   ],
+   "description": "Улица Чингиз Айтматов, 79/1",
+   "priceFrom": 33206400,
+   "priceFromM2": 418000,
+   "rooms": [
+    2,
+    3
+   ],
+   "coords": [
+    71.371747192708,
+    51.168243733157
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": 12,
+   "apartmentsTotal": 3,
+   "apartmentsLoaded": 3,
+   "tour3d": null,
+   "filterRanges": {
+    "rooms": [
+     2,
+     3
+    ],
+    "price": {
+     "min": 33206400,
+     "max": 42397560
+    },
+    "area": {
+     "min": 69.18,
+     "max": 95.49
+    },
+    "priceSqm": {
+     "min": 418000,
+     "max": 480000
+    },
+    "floor": {
+     "min": 1,
+     "max": 12
+    }
+   }
+  },
+  {
+   "slug": "402328",
+   "sourceId": 8192,
+   "iblockId": null,
+   "name": "DARYN",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Улица Кенесары, 62",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/402328/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/tvpdpwo1cs2gltdlw08xyrtmqruz7uwc-2776cf69bcfd.webp",
+    "https://svoydom.kz/upload/iblock/883/tvpdpwo1cs2gltdlw08xyrtmqruz7uwc.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/tvpdpwo1cs2gltdlw08xyrtmqruz7uwc-f9a70b6d5b0c.webp",
+    "https://svoydom.kz/upload/svdom_webp/86r9pylaflq7rfn0dam4p3bwhu48iwjw-d4867253c744.webp",
+    "https://svoydom.kz/upload/svdom_webp/02r0irqr0nn3297exbstny7dw68i0pjb-8ed0186d37ea.webp",
+    "https://svoydom.kz/upload/svdom_webp/pygy7fieziege8zfna929s5q3h4d6brm-2b94d704ec3d.webp",
+    "https://svoydom.kz/upload/svdom_webp/u2etc6oqis35yh9aijc36bh0azzp4paj-13c115be3cac.webp",
+    "https://svoydom.kz/upload/svdom_webp/mnhul5kgdjorw1fpnbs0khr7yoedjaym-a7c448d67525.webp"
+   ],
+   "description": "Жилой Комплекс DARYN, расположенный на пересечении улиц Кенесары и Бейсекбаева, олицетворяет ваш собственный уголок счастья, благодати и вдохновляет на самые лучшие свершения.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4524469,
+    51.1657516
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "sandi_qala2",
+   "sourceId": 29836,
+   "iblockId": null,
+   "name": "SANDI QALA 2",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2026",
+   "deadlineYear": 2026,
+   "address": "Улица Бухар жырау, 12/3",
+   "district": "Есиль",
+   "url": "https://svoydom.kz/comfort_projects/sandi_qala2/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/5gmaw0zdeon5kh8qbh1h5renrir3aioa-11a072436b73.webp",
+    "https://svoydom.kz/upload/iblock/56e/5gmaw0zdeon5kh8qbh1h5renrir3aioa.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/home-banner-img-656dcd080236.webp",
+    "https://svoydom.kz/upload/svdom_webp/leave-request-img-478ed824934e.webp",
+    "https://svoydom.kz/upload/svdom_webp/infrastructure-img-9e5f9e92c2f7.webp",
+    "https://svoydom.kz/upload/svdom_webp/infrastructure-img-5c28f85a17ea.webp",
+    "https://svoydom.kz/upload/svdom_webp/sandi_video-035eaf52f6fa.webp",
+    "https://svoydom.kz/upload/svdom_webp/sandi_video-777a8032ccb3.webp"
+   ],
+   "description": "ЖК SANDI QALA 2 — жилой комплекс в Астане, район Район Есиль. Срок сдачи: II квартал 2026 года. Планировки, актуальные цены и рассрочка напрямую от застройщика SVOYDOM.",
+   "priceFrom": 30825200,
+   "priceFromM2": 545000,
+   "rooms": [
+    2
+   ],
+   "coords": [
+    71.440266969333,
+    51.102440264127
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "337106",
+   "sourceId": 8165,
+   "iblockId": null,
+   "name": "PARASAT",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2023",
+   "deadlineYear": 2023,
+   "address": "Проспект Туран, 44Б",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/337106/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/6t0r6prjzonpp0bov28mwu94gspk3r87-6936a5f6c072.webp",
+    "https://svoydom.kz/upload/iblock/fd0/6t0r6prjzonpp0bov28mwu94gspk3r87.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/6t0r6prjzonpp0bov28mwu94gspk3r87-81b98876f790.webp",
+    "https://svoydom.kz/upload/svdom_webp/z5yl3hq27bwb28u1p5ajmxjywdxc2fz0-3be7f877fd71.webp",
+    "https://svoydom.kz/upload/svdom_webp/ke2iml2n4kg093xpn30voh3uvctqi04z-8c351a7cae9d.webp",
+    "https://svoydom.kz/upload/svdom_webp/6tthm0ccoguvxc866rhfxwi7qpz1agq5-031b498e78a0.webp",
+    "https://svoydom.kz/upload/svdom_webp/gpsc1ohsge5x23ry28g1x9ig48e9fneq-97b5997e5e8c.webp",
+    "https://svoydom.kz/upload/svdom_webp/n5vdkhat5bvpo7fxoode40htork1nmcl-b1bf20211d96.webp"
+   ],
+   "description": "Жилой комплекс «PARASAT», расположившись в развивающемся районе левого берега на пересечении улицы Орынбор и проспекта Туран.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4022539,
+    51.1135204
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "dauylpaz",
+   "sourceId": 28977,
+   "iblockId": null,
+   "name": "DAUYLPAZ",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Улица Жумекен Нажимеденов, 30/1",
+   "district": "Сарайшык",
+   "url": "https://svoydom.kz/comfort_projects/dauylpaz/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/erl3ms49zymwunuyup4t927t5601070w-a206bded7627.webp",
+    "https://svoydom.kz/upload/iblock/6a4/erl3ms49zymwunuyup4t927t5601070w.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/k78uakx0ijveg935gsdqh23sb3xuck0v-40f51afa1658.webp",
+    "https://svoydom.kz/upload/svdom_webp/2etvze7aux0lrfh45b6qo8nz16ejo7fk-debb1ccbde5f.webp",
+    "https://svoydom.kz/upload/svdom_webp/12iv3ruy6aee8rveqog4l2yzcta7gfpk-bfbdeb58a515.webp",
+    "https://svoydom.kz/upload/svdom_webp/1bxzlc27mhk61a7q2romauo2mxy2yx3i-3ed719e82f4d.webp",
+    "https://svoydom.kz/upload/svdom_webp/advantages-img-a5cdbc196660.webp",
+    "https://svoydom.kz/upload/svdom_webp/leave-request-img-c4fb38c7e9b8.webp"
+   ],
+   "description": "Дом сочетает в себе продуманные планировочные решения и высокое качество строительства.\r\n\r\n\r\n\t Жилой комплекс комфорт-класса — это надёжность, тишина и тепло в любое время года. Увеличенные окна и потолки 3 метра создают ощущение комфорта каждый день.",
+   "priceFrom": 17799500,
+   "priceFromM2": 437000,
+   "rooms": [
+    1,
+    2,
+    3
+   ],
+   "coords": [
+    71.49445639287,
+    51.114394679036
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "322258",
+   "sourceId": 8166,
+   "iblockId": null,
+   "name": "IRBIS",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Кенжебек Кумисбеков, 1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/322258/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/4jt1yygg1xcgxramjoow3um9jl6xdhab-2df998670d5d.webp",
+    "https://svoydom.kz/upload/iblock/438/4jt1yygg1xcgxramjoow3um9jl6xdhab.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/4jt1yygg1xcgxramjoow3um9jl6xdhab-79378136c8c7.webp",
+    "https://svoydom.kz/upload/svdom_webp/6dz5u4i1vdg2g77m9mxx74j8i77mkkmc-acd7d36020c7.webp",
+    "https://svoydom.kz/upload/svdom_webp/7lufdwuj8tr8ip1m00h671fr8rh8wrvo-a33f33fbdfe5.webp",
+    "https://svoydom.kz/upload/svdom_webp/hz9f03wjuhe03m1rk0luj6wnlkrw96tb-202f9f88ed4b.webp",
+    "https://svoydom.kz/upload/svdom_webp/a10sxjmlch3jgge6irejuledb9tavsqs-7f4c7ba7f546.webp",
+    "https://svoydom.kz/upload/svdom_webp/l34e8j6ww8c3veoj2fsy53dat17k9jps-323a863b6bb1.webp"
+   ],
+   "description": "Жилой комплекс «IRBIS», расположенный на правом берегу столицы, окунает Вас в атмосферу свободы, силы и независимости.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4306682,
+    51.1282205
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "301439",
+   "sourceId": 8167,
+   "iblockId": null,
+   "name": "MECHTA III",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Култегин, 15",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/301439/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/kuw59syh6dkg1u2oyuqbmlm1iat2zif7-25737b6f545c.webp",
+    "https://svoydom.kz/upload/iblock/4a2/kuw59syh6dkg1u2oyuqbmlm1iat2zif7.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/kuw59syh6dkg1u2oyuqbmlm1iat2zif7-824174f8b76a.webp",
+    "https://svoydom.kz/upload/svdom_webp/nd1plyu007lh34fc9wh0va8mvmyg1chk-1d7c78f7ae79.webp",
+    "https://svoydom.kz/upload/svdom_webp/c12onkz20bkb8td9096b44l1jjgu5e5k-e1c4f8e3d746.webp",
+    "https://svoydom.kz/upload/svdom_webp/9d2efd9cr23m1c6zyct5lfsv0i6eds3r-f2f813fbe6af.webp",
+    "https://svoydom.kz/upload/svdom_webp/8c3x5log78e17q4dzjh1qb18niq5tb7z-43468e09f596.webp",
+    "https://svoydom.kz/upload/svdom_webp/2k17mlq8kluo3d7olupyx538h8odoyz3-b6fd24051d3f.webp"
+   ],
+   "description": "Жилой комплекс “Mechta” несет в себе самое лучшее для своих жителей. Уникальное расположение в перспективном районе левого берега гарантирует удобство и комфорт во всем!",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3738216,
+    51.1366028
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115152",
+   "sourceId": 8170,
+   "iblockId": null,
+   "name": "SEN",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Казыбек би, 3/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115152/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/zjy9ewt2f5sej8k9jhz1ewbd9wjl3mt0-456dce462caa.webp",
+    "https://svoydom.kz/upload/iblock/ac7/zjy9ewt2f5sej8k9jhz1ewbd9wjl3mt0.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/zjy9ewt2f5sej8k9jhz1ewbd9wjl3mt0-29dfc3378bff.webp",
+    "https://svoydom.kz/upload/svdom_webp/on1iatfrkxese4v7320i121e3fel1snj-cd016f29d590.webp",
+    "https://svoydom.kz/upload/svdom_webp/vobwtsrafm8tufr1gv2q5cbnj64y7byd-9ea7069d8d8b.webp",
+    "https://svoydom.kz/upload/svdom_webp/3733dmlrd43ayzo3y1nz5ffddxwz6ol8-118c8bd942fe.webp",
+    "https://svoydom.kz/upload/svdom_webp/eicriutf366revmmjtpm5j38cgqto8i6-a333e48f471a.webp",
+    "https://svoydom.kz/upload/svdom_webp/nadoy73oebuzgj4vdhgjrry1bgoizqpu-21f320772273.webp"
+   ],
+   "description": "Жилой комплекс SEN раскрывает концепцию современного дома, где создана и продумана уникальная экосистема для своих жителей.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3937892,
+    51.1260503
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115149",
+   "sourceId": 8172,
+   "iblockId": null,
+   "name": "MECHTA II",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Култегин, 13",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115149/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/29xy9zea1p48v7n4ap213m2b0mj3hhr3-2fc268215366.webp",
+    "https://svoydom.kz/upload/iblock/57f/29xy9zea1p48v7n4ap213m2b0mj3hhr3.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/29xy9zea1p48v7n4ap213m2b0mj3hhr3-4f8015384fa0.webp",
+    "https://svoydom.kz/upload/svdom_webp/e95smv62t566a6iq7uf58c2oc6elan73-e2c96c717573.webp",
+    "https://svoydom.kz/upload/svdom_webp/x4k5zjk16dzt2docej323at9mtfrztiu-e56fb3855676.webp",
+    "https://svoydom.kz/upload/svdom_webp/d2yvsnjtg3v9p8khv4p0qr2gb6wm16og-b726d0a64d60.webp",
+    "https://svoydom.kz/upload/svdom_webp/fgorao2071hqzxtv8hxsbow3mjrbwany-789c4cb64ee5.webp",
+    "https://svoydom.kz/upload/svdom_webp/2k17mlq8kluo3d7olupyx538h8odoyz3-b6fd24051d3f.webp"
+   ],
+   "description": "Жилой комплекс «Mechta» несёт в себе самое лучшее для своих жителей.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3733958,
+    51.1354831
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115147",
+   "sourceId": 8174,
+   "iblockId": null,
+   "name": "GRAND CHAMPION",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Проспект Туран, 46/5",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115147/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/ippf4se2mou6whucqps1l5keo3234isu-bb10ff1b9978.webp",
+    "https://svoydom.kz/upload/iblock/d30/ippf4se2mou6whucqps1l5keo3234isu.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/ippf4se2mou6whucqps1l5keo3234isu-7c0a317415c2.webp",
+    "https://svoydom.kz/upload/svdom_webp/991i08zz5aszul9ndbgnso03i3loghya-8e673c90a7af.webp",
+    "https://svoydom.kz/upload/svdom_webp/w3cx43xomr8c3pmhuo7qmhed9tzpp7hs-61eabaa3f0d8.webp",
+    "https://svoydom.kz/upload/svdom_webp/b6u6krhnyjr4v3usm99ygjans2t8wezz-dc6c3c7ab091.webp",
+    "https://svoydom.kz/upload/svdom_webp/wnudqm0nteebqzmnyhx11gsw7fp7d91q-ca84835c75e3.webp",
+    "https://svoydom.kz/upload/svdom_webp/8kygsfgyxk3q3238220um02jvroefgzc-eb6ebd7af857.webp"
+   ],
+   "description": "Grand Champion I очередь расположен рядом с центром левобережной части города, в районе «Есиль» на проспекте улиц Кабанбая батыра и Орынбор.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4038993,
+    51.1116013
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115148",
+   "sourceId": 8173,
+   "iblockId": null,
+   "name": "MECHTA I",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Култегин, 9",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115148/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/29xy9zea1p48v7n4ap213m2b0mj3hhr3-2fc268215366.webp",
+    "https://svoydom.kz/upload/iblock/57f/29xy9zea1p48v7n4ap213m2b0mj3hhr3.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/29xy9zea1p48v7n4ap213m2b0mj3hhr3-4f8015384fa0.webp",
+    "https://svoydom.kz/upload/svdom_webp/e95smv62t566a6iq7uf58c2oc6elan73-e2c96c717573.webp",
+    "https://svoydom.kz/upload/svdom_webp/x4k5zjk16dzt2docej323at9mtfrztiu-e56fb3855676.webp",
+    "https://svoydom.kz/upload/svdom_webp/d2yvsnjtg3v9p8khv4p0qr2gb6wm16og-b726d0a64d60.webp",
+    "https://svoydom.kz/upload/svdom_webp/fgorao2071hqzxtv8hxsbow3mjrbwany-789c4cb64ee5.webp",
+    "https://svoydom.kz/upload/svdom_webp/2k17mlq8kluo3d7olupyx538h8odoyz3-b6fd24051d3f.webp"
+   ],
+   "description": "Жилой комплекс “Mechta” несет в себе самое лучшее для своих жителей. Уникальное расположение в перспективном районе левого берега гарантирует удобство и комфорт во всем!",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3709485,
+    51.1336355
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115151",
+   "sourceId": 8171,
+   "iblockId": null,
+   "name": "ALMA PARK",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Проспект Туран, 40/2",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115151/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/8kvxnvvvfqwexoscaspp6unqr1sd0tqu-f275110c92ac.webp",
+    "https://svoydom.kz/upload/svdom_og/8kvxnvvvfqwexoscaspp6unqr1sd0tqu-2cd1b5e1caec.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/8kvxnvvvfqwexoscaspp6unqr1sd0tqu-a75064aee77c.webp",
+    "https://svoydom.kz/upload/iblock/8d2/zys99p23a1vumrudaxxjhbzgx6hf1wkh.jpg",
+    "https://svoydom.kz/upload/svdom_webp/sv9sfo7p8nhuzes3ipgsdbrgkwegbyvr-b15687683766.webp",
+    "https://svoydom.kz/upload/svdom_webp/ea2oeib83vr6n00qw0hjvfkyojygaxx1-52b6cefaa837.webp",
+    "https://svoydom.kz/upload/svdom_webp/vx9we4ijl32wn4vw9fmnp5w3doj4xdu3-ff8bc1c0cced.webp",
+    "https://svoydom.kz/upload/svdom_webp/04xgnj33bop5u4u5vhq9jdowqu8qjhi5-9004f6d970bb.webp"
+   ],
+   "description": "Alma Park – это современный жилой комплекс, расположенный в самом сердце развитой части левого берега, на пересечении улиц Туран и Керей Жанибек Хандар.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4035357,
+    51.1154533
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "105191",
+   "sourceId": 8194,
+   "iblockId": null,
+   "name": "RAHMET",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Бактыораза Бейсекбаева, 11",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/105191/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/d48v03etmc0a0888in9a401wj32nhlcf-d2a9e2eaad5a.webp",
+    "https://svoydom.kz/upload/iblock/473/d48v03etmc0a0888in9a401wj32nhlcf.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/d48v03etmc0a0888in9a401wj32nhlcf-80e33ca4c748.webp",
+    "https://svoydom.kz/upload/svdom_webp/bq0wyy37adgv308yffo8xrlxyzbdoyqz-9f632d5475b7.webp",
+    "https://svoydom.kz/upload/svdom_webp/b7o0pm5chk6nvm2e4kmn1p2i6cm88b7u-1323ed3a08d7.webp",
+    "https://svoydom.kz/upload/svdom_webp/j64h4g8923s41v5z821btlf4f3r8n9ln-fc554101d6d5.webp",
+    "https://svoydom.kz/upload/svdom_webp/d26d7atd42hyiai4znopodfgak9s1ca7-f81aa6b9fb9e.webp",
+    "https://svoydom.kz/upload/svdom_webp/38uzuyuiv7dr1nlyz5orf26kl9px5743-63f804615be4.webp"
+   ],
+   "description": "Жилой комплекс «Rahmet» — это уютный современный жилой комплекс правобережья, расположенный на первой линии улицы Бейсекбаева, пересечение улицы Кенесары.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.45529110759,
+    51.166743512188
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "105130",
+   "sourceId": 8196,
+   "iblockId": null,
+   "name": "AKBULAK PREMIUM",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Аскар Токпанов, 20",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/105130/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/f2cavmpf66p78rskadp5jzyq2anndxcd-61f369be1b44.webp",
+    "https://svoydom.kz/upload/iblock/e22/f2cavmpf66p78rskadp5jzyq2anndxcd.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/f2cavmpf66p78rskadp5jzyq2anndxcd-a6d5bc080dbc.webp",
+    "https://svoydom.kz/upload/svdom_webp/br9gra9xy7j8e1xu4i7iox1f30jkum2l-d5027f66c4f0.webp",
+    "https://svoydom.kz/upload/svdom_webp/ocl6zdgs7axw89u103ufcgsj7i9tdx2u-c069268ca2a7.webp",
+    "https://svoydom.kz/upload/svdom_webp/2dpgncnxv76zyuxiyg74ybtonf4zv1dl-7b5660557a15.webp",
+    "https://svoydom.kz/upload/svdom_webp/bjtgmer8m0mbk93rsnc7guxt38jq48t5-3a3304452c3f.webp",
+    "https://svoydom.kz/upload/svdom_webp/h92q0328wukh8iq6d75mgrib0e2k2pun-529a8bf57b32.webp"
+   ],
+   "description": "Жилой Комплекс Akbulak Premium- это уголок комфорта и уюта в центре Нур-Султана, где жизнь течёт размеренно и гармонично.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.456562064497,
+    51.141944726341
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115145",
+   "sourceId": 8176,
+   "iblockId": null,
+   "name": "ALTYN DALA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Улица Кайым Мухамедханов, 12/3",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115145/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/xn50mgorhi3iu8i388hr8r1svoy8y40g-e6e7db6675da.webp",
+    "https://svoydom.kz/upload/iblock/25f/xn50mgorhi3iu8i388hr8r1svoy8y40g.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/xn50mgorhi3iu8i388hr8r1svoy8y40g-9489d7036d8f.webp",
+    "https://svoydom.kz/upload/svdom_webp/0mf81rkilrqp2ba1ckwdwre1lrrytw9v-cc6881790f91.webp",
+    "https://svoydom.kz/upload/svdom_webp/xhgsov0lrf7zr4cqekwk5k4c9628zwld-30669e488d13.webp",
+    "https://svoydom.kz/upload/svdom_webp/i8ff21tuldhfuxqx00v59lzj9rsa1tiw-183037266673.webp",
+    "https://svoydom.kz/upload/svdom_webp/wd68rcofn6703kt33h9ehwmot88emqhr-63e97bbfb577.webp",
+    "https://svoydom.kz/upload/svdom_webp/xz2fnuxbujs4cmppuo0ptczlq03ufagk-8c98e897e48d.webp"
+   ],
+   "description": "ALTYN DALA - это современный жилой комплекс, расположенный на второй линии улицы К. Мухамедханова. Вместе с отличным расположением дом сочетает в себе продуманные планировочные решения и высокое качество строительства.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3784082,
+    51.1395033
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115144",
+   "sourceId": 8177,
+   "iblockId": null,
+   "name": "ALPAMYS I",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2021",
+   "deadlineYear": 2021,
+   "address": "Проспект Улы Дала, 33",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115144/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/l3l6b50rgumggvb609a5gnx2q6b1rnsq-1d02563047e4.webp",
+    "https://svoydom.kz/upload/iblock/314/l3l6b50rgumggvb609a5gnx2q6b1rnsq.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/l3l6b50rgumggvb609a5gnx2q6b1rnsq-8db45b6a3ccc.webp",
+    "https://svoydom.kz/upload/svdom_webp/yvq9wadbxn2ro0ykyde1b6zca0774sx1-9e35779933bd.webp",
+    "https://svoydom.kz/upload/svdom_webp/7fppka1dlchlixrh55f6ywps139uemkl-4eb6109e90f2.webp",
+    "https://svoydom.kz/upload/svdom_webp/igfp5u5b3xqd0lhy477y56108ft28nk5-cafc2f14e632.webp",
+    "https://svoydom.kz/upload/svdom_webp/9c9xons1uo5ci5r6g87m188gn0u4395c-ddc273ef020a.webp",
+    "https://svoydom.kz/upload/svdom_webp/djd2p76awitth43oczm17alear081lih-a54315c17516.webp"
+   ],
+   "description": "Alpamys  -  современный жилой комплекс, состоящий из 2-х очередей, расположенный на первой линии проспекта Улы Дала.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.399445360928,
+    51.100129982987
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "115146",
+   "sourceId": 8175,
+   "iblockId": null,
+   "name": "ALTYN TAU",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2021",
+   "deadlineYear": 2021,
+   "address": "Улица Кенжебек Кумисбеков, 4",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/115146/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/5c56u8sxay9on21oypug8uunzpltht8d-218c4226e37e.webp",
+    "https://svoydom.kz/upload/iblock/813/5c56u8sxay9on21oypug8uunzpltht8d.JPG",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/5c56u8sxay9on21oypug8uunzpltht8d-9308638de75f.webp",
+    "https://svoydom.kz/upload/svdom_webp/gsfff44zlqw2omc1pgqbm7y06cxnbcuw-6341aac58104.webp",
+    "https://svoydom.kz/upload/svdom_webp/vep904vphv9nw7q2orqle3kffdg7b54q-c9057f2e1101.webp",
+    "https://svoydom.kz/upload/svdom_webp/g6g050qhfakm89hb7kbu86syp1yox9iq-bdc0d7abd298.webp",
+    "https://svoydom.kz/upload/svdom_webp/mhmgqyu7aukzx2f4w1ubh65ux5m3m6im-784c73bfaf6b.webp",
+    "https://svoydom.kz/upload/svdom_webp/vep904vphv9nw7q2orqle3kffdg7b54q-80baa0e6be06.webp"
+   ],
+   "description": "Altyn Tau - это жилой комплекс с уютным внутренним двором, зонами отдыха для всей семьи, детскими, спортивными площадками и паркингом!",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.401440087573,
+    51.163971338853
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8211",
+   "sourceId": 8211,
+   "iblockId": null,
+   "name": "ALPAMYS II",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2022",
+   "deadlineYear": 2022,
+   "address": "Проспект Улы Дала, 33/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8211/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/l3l6b50rgumggvb609a5gnx2q6b1rnsq-1d02563047e4.webp",
+    "https://svoydom.kz/upload/iblock/314/l3l6b50rgumggvb609a5gnx2q6b1rnsq.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/l3l6b50rgumggvb609a5gnx2q6b1rnsq-8db45b6a3ccc.webp",
+    "https://svoydom.kz/upload/svdom_webp/yvq9wadbxn2ro0ykyde1b6zca0774sx1-9e35779933bd.webp",
+    "https://svoydom.kz/upload/svdom_webp/igfp5u5b3xqd0lhy477y56108ft28nk5-cafc2f14e632.webp",
+    "https://svoydom.kz/upload/svdom_webp/7fppka1dlchlixrh55f6ywps139uemkl-4eb6109e90f2.webp",
+    "https://svoydom.kz/upload/svdom_webp/5afui9161ok6na05u3u6lg4is7hg35d8-df2af1ee3924.webp",
+    "https://svoydom.kz/upload/svdom_webp/9c9xons1uo5ci5r6g87m188gn0u4395c-ddc273ef020a.webp"
+   ],
+   "description": "Alpamys  -  современный жилой комплекс, состоящий из 2-х очередей, расположенный на первой линии проспекта Улы Дала.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4022138,
+    51.1010058
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8195",
+   "sourceId": 8195,
+   "iblockId": null,
+   "name": "SALEM",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2021",
+   "deadlineYear": 2021,
+   "address": "Улица Каныш Сатпаев, 24",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8195/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/f5e0kuv53efdjrejek3om1uaoytul4cb-0cfea2f1bda7.webp",
+    "https://svoydom.kz/upload/iblock/758/f5e0kuv53efdjrejek3om1uaoytul4cb.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/f5e0kuv53efdjrejek3om1uaoytul4cb-deeb10881795.webp",
+    "https://svoydom.kz/upload/svdom_webp/1uqkg7see9z6y8ymlw60lrr252z81n65-c83a2de7d554.webp",
+    "https://svoydom.kz/upload/svdom_webp/iu4800bsi6t9jbiwumap5fst4gg3oxj8-44b60723a8e9.webp",
+    "https://svoydom.kz/upload/svdom_webp/sa60a1rhilzemh10thqz565fi1xhysbv-5e9de9587472.webp",
+    "https://svoydom.kz/upload/svdom_webp/o5tq2zn4muzsx3aowcbo84fe3y3ib5zb-d16c13667975.webp",
+    "https://svoydom.kz/upload/svdom_webp/sa60a1rhilzemh10thqz565fi1xhysbv-144ebbf30e36.webp"
+   ],
+   "description": "Salem - это жилой комплекс со стильной дизайнерской архитектурой, продуманными планировками и дизайнерскими холлами.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4788961,
+    51.1379446
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "127347",
+   "sourceId": 8169,
+   "iblockId": null,
+   "name": "AQ QAYIN",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2021",
+   "deadlineYear": 2021,
+   "address": "Улица Аккум, 20а",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/127347/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/dizakz76jj80u2g21mkivk2ik2r7boav-fc7db2c39a82.webp",
+    "https://svoydom.kz/upload/iblock/47d/dizakz76jj80u2g21mkivk2ik2r7boav.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/dizakz76jj80u2g21mkivk2ik2r7boav-e783c178822a.webp",
+    "https://svoydom.kz/upload/svdom_webp/ao3zr37goi04m4ma2trd7tli91c4bkg3-36fc17d86245.webp",
+    "https://svoydom.kz/upload/svdom_webp/pvidhbflpjbmxr3tz2dzaayf0gf062t1-be42fb2f34e6.webp",
+    "https://svoydom.kz/upload/svdom_webp/9qh2vgxr0rfpv684nt3kxj8208d8rx0r-594e2e59f9ab.webp",
+    "https://svoydom.kz/upload/svdom_webp/8rag37gnutbp1iva6oams4tjtgb9c82k-b4e3f52b0d5e.webp",
+    "https://svoydom.kz/upload/svdom_webp/6j9wm0pbzsy9cehbwmtpcj4rhvldeb1m-1414d9404c81.webp"
+   ],
+   "description": "Aq Qayin - жилой комплекс, расположенный на левом берегу города  Нур-Султан, на пересечении улиц А. Бокейханова и Орынбор.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4393589,
+    51.1090801
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8200",
+   "sourceId": 8200,
+   "iblockId": null,
+   "name": "ARKADA",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2021",
+   "deadlineYear": 2021,
+   "address": "Улица Айтеке би, 15",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8200/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/rk52w1oj4i3fzzdux10y00eq6pwmjt0u-9e83761eb3cd.webp",
+    "https://svoydom.kz/upload/iblock/5a1/rk52w1oj4i3fzzdux10y00eq6pwmjt0u.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/rk52w1oj4i3fzzdux10y00eq6pwmjt0u-2570413278cb.webp"
+   ],
+   "description": "Arkada - это комфортный многофункциональный жилой комплекс, расположенный рядом с центром левого берега по улице Кайыма Мухаметханова.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.382469182446,
+    51.144304244802
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8201",
+   "sourceId": 8201,
+   "iblockId": null,
+   "name": "AK BARS",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2020",
+   "deadlineYear": 2020,
+   "address": "Улица Кенжебек Кумисбеков, 11",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8201/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/qkbfq4yocglujq2k7rxfc4q17h1442b9-3772149f0b2f.webp",
+    "https://svoydom.kz/upload/iblock/af1/qkbfq4yocglujq2k7rxfc4q17h1442b9.jpeg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/qkbfq4yocglujq2k7rxfc4q17h1442b9-aae89f0d96ab.webp",
+    "https://svoydom.kz/upload/svdom_webp/jkx02e2qapmlaf38huf024q742zt5jc0-f15bfc9b8a1d.webp",
+    "https://svoydom.kz/upload/svdom_webp/twprqh90faq4npafy2jmtee1wv3bxgkc-347f215abe98.webp",
+    "https://svoydom.kz/upload/svdom_webp/urqca3wfv219wgooujgagqfd93ezh52v-7e083959932f.webp",
+    "https://svoydom.kz/upload/svdom_webp/rochgnbnpulk6fqnerq1csfsnr03fqb6-3cd0b620666f.webp",
+    "https://svoydom.kz/upload/svdom_webp/urqca3wfv219wgooujgagqfd93ezh52v-e304e3948372.webp"
+   ],
+   "description": "Ak Bars – это современный жилой комплекс расположенный в перспективно развивающемся районе правого берега, на пересечении улиц К.Кумисбекова и ул.А.Жангельдина.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.396736782697,
+    51.171813919361
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8203",
+   "sourceId": 8203,
+   "iblockId": null,
+   "name": "COLLEGE",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2020",
+   "deadlineYear": 2020,
+   "address": "Шоссе Коргалжын, 15/1",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8203/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/y01vaj66iuirl8jksdgtto0k7cq1wm85-06ebee08726f.webp",
+    "https://svoydom.kz/upload/iblock/7d3/y01vaj66iuirl8jksdgtto0k7cq1wm85.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/y01vaj66iuirl8jksdgtto0k7cq1wm85-cdb5c2e656eb.webp",
+    "https://svoydom.kz/upload/svdom_webp/s8zkyi7fxw2suq8ttucejabfvpngdc5p-8572127ce626.webp",
+    "https://svoydom.kz/upload/svdom_webp/39cbw7nr6bwj1wzbrpizv7b5gwqcimul-d1be689cba6b.webp",
+    "https://svoydom.kz/upload/svdom_webp/biy1tpecoit81kvcqo4edtu6uteuvr5a-1aeae78404f2.webp",
+    "https://svoydom.kz/upload/svdom_webp/ms663f9scp0v2nnud7l17ldfqmt3melb-400d23b43cb7.webp",
+    "https://svoydom.kz/upload/svdom_webp/f60uaqzcvczmb6qzvzzf1rwleb185dtd-0b47d60d52c0.webp"
+   ],
+   "description": "College – жилой комплекс, который состоит из 2 (двух) 9-ти этажных блоков, поэтажно разделенный на жилые помещения.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.3749066,
+    51.1452078
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "8204",
+   "sourceId": 8204,
+   "iblockId": null,
+   "name": "SPORT CITY",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2020",
+   "deadlineYear": 2020,
+   "address": "Проспект Туран, 42",
+   "district": null,
+   "url": "https://svoydom.kz/project/2/8204/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/rv3d9au09c1171ak6dvhycc6k4khuor8-b00d8ba25ecd.webp",
+    "https://svoydom.kz/upload/svdom_og/rv3d9au09c1171ak6dvhycc6k4khuor8-e653810e2a3a.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/rv3d9au09c1171ak6dvhycc6k4khuor8-8e41b695dbb7.webp",
+    "https://svoydom.kz/upload/svdom_webp/5k3zrq40bj5rv3toisod0a3gw0mbc9fw-f686ebbcc421.webp",
+    "https://svoydom.kz/upload/svdom_webp/jtpw52c594w85whbl6lxtechwr1u7u59-a18f16f2103f.webp",
+    "https://svoydom.kz/upload/svdom_webp/h49qc1dnkvzqi1ge8k397dfp7opdt0lj-a87b754023b6.webp",
+    "https://svoydom.kz/upload/svdom_webp/11i1xj8xza96iz400ooz1cvqdgumfn1b-1bd91266027f.webp",
+    "https://svoydom.kz/upload/svdom_webp/gio5wki6igyu0zak650v84vsglsggst4-925db7a30671.webp"
+   ],
+   "description": "Sport City – это современный жилой комплекс, расположенный на первой линии  проспекта Туран, в самом сердце спортивной жизни столицы.",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.4026746,
+    51.1145679
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  },
+  {
+   "slug": "tamasha",
+   "sourceId": 28237,
+   "iblockId": null,
+   "name": "Tamasha",
+   "city": "Астана",
+   "class": null,
+   "status": "сдан",
+   "deadline": "2025",
+   "deadlineYear": 2025,
+   "address": "Коммерческие помещения Проспект Тауелсиздик, 25/1",
+   "district": "Алматинский",
+   "url": "https://svoydom.kz/project/2/TAMASHA/",
+   "images": [
+    "https://svoydom.kz/upload/svdom_webp/rhfw1rv7yw3prozawzzf9knu06tr923o-5ef85e187d98.webp",
+    "https://svoydom.kz/upload/iblock/b91/rhfw1rv7yw3prozawzzf9knu06tr923o.jpg",
+    "https://svoydom.kz/upload/svdom_webp/burger_banner-22efd355f17e.webp",
+    "https://svoydom.kz/upload/svdom_webp/othmnq2fnzkawc1mqxiwpwhzjx9l8uqt-367fb61a77e2.webp",
+    "https://svoydom.kz/upload/svdom_webp/rhfw1rv7yw3prozawzzf9knu06tr923o-0adfe644f4c4.webp"
+   ],
+   "description": "Коммерческие помещения Проспект Тауелсиздик, 25/1",
+   "priceFrom": null,
+   "priceFromM2": null,
+   "rooms": [],
+   "coords": [
+    71.459901440937,
+    51.143385903077
+   ],
+   "coordsSource": "svoydom.kz projects-data",
+   "footprint": null,
+   "floorsMax": null,
+   "apartmentsTotal": null,
+   "apartmentsLoaded": 0,
+   "tour3d": null,
+   "filterRanges": null
+  }
+ ]
+}

@@ -1,0 +1,4 @@
+{
+ "_comment": "Ручные правки. Ключ — slug ЖК. Поля: coords [lon,lat], footprints [{ring:[[lon,lat],...], floors, name}], floorsMax. Важнее авто-данных.",
+ "projects": {}
+}

@@ -1,0 +1,347 @@
+{
+ "checkedAt": "2026-11-20T10:32:00.691Z",
+ "apartments": 188,
+ "errorCount": 0,
+ "warningCount": 83,
+ "errorsByCode": {},
+ "warningsByCode": {
+  "GEOMETRY_SCHEMATIC": 70,
+  "APT_NUMBER_DUP": 1,
+  "CATALOG_INCOMPLETE": 12
+ },
+ "errors": [],
+ "warnings": [
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "dos:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "dauys:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "qaiyndy3:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "1783848:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "olen2:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "gakku:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "tamgaly:b1: schematic outline"
+  },
+  {
+   "code": "APT_NUMBER_DUP",
+   "msg": "janaqala: №22 twice (janaqala:62786, janaqala:62817)"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "janaqala: 12/91 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b3: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b4: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b5: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b6: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aibat:b7: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "aibat: 18/257 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "asylmeken2:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "qaiyndy:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "qaiyndy2:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b3: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b4: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b5: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b6: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b7: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baisal:b8: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "baisal: 12/25 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "zhasotau:b1: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "zhasotau: 18/228 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aisaule:b1: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "aisaule: 12/137 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "931750:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "1061833:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "1067998:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek:b3: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek:b4: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek:b5: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "aqterek: 12/111 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek_2:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek_2:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek_2:b3: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek_2:b4: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "aqterek_2:b5: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "aqterek_2: 12/179 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "asyl_meken:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "asyl_meken:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "asyl_meken:b3: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "asyl_meken: 12/30 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "768835:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "822553:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b3: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b4: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b5: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "baiqadam:b6: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "elaman: 12/36 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "720507:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "601253:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "arman_meken:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "arman_meken:b2: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "arman_meken:b3: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "arman_meken: 12/38 apartments"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "qadam: 12/40 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "115143:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "shalqar:b1: schematic outline"
+  },
+  {
+   "code": "CATALOG_INCOMPLETE",
+   "msg": "shalqar: 12/78 apartments"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "8205:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "umit:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "altyn_emel:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "322258:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "301439:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "115149:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "115148:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "105130:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "115146:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "127347:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "8201:b1: schematic outline"
+  },
+  {
+   "code": "GEOMETRY_SCHEMATIC",
+   "msg": "8203:b1: schematic outline"
+  }
+ ]
+}

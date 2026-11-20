@@ -1,0 +1,18 @@
+# dependencies / build output
+node_modules/
+dist/
+.vercel/
+
+# tests
+test-results/
+playwright-report/
+
+# raw scrape cache: copies of third-party pages (svoydom.kz HTML, Overpass/Nominatim/prosecutor GIS responses).
+# Not redistributed — regenerate locally with `npm run scrape`.
+data/raw/
+
+# local tooling
+.claude/
+*.log
+.DS_Store
+Thumbs.db

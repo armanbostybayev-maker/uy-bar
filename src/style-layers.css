@@ -1,0 +1,45 @@
+/* ---- «Слои» control: city POIs and crime heat */
+/* bottom-left corner; while the left menu is on screen the corner starts right of it */
+:root { --corner-left: 16px; }
+@media (min-width: 761px) {
+  body:not(.has-project):not(.view-search):not(.view-fav):not(.view-compare):not(.no-map),
+  body.list-mode:not(.no-map) { --corner-left: calc(16px + 231px + 12px); }
+}
+.layers { position: fixed; left: var(--corner-left); bottom: 44px; z-index: 4; padding: 0; border-radius: 12px; max-width: 280px; transition: left 0.25s; }
+.legend { left: calc(var(--corner-left) + 104px); transition: left 0.25s; }
+.layers summary { list-style: none; cursor: pointer; min-height: 44px; display: flex; align-items: center; gap: 8px; padding: 0 14px; font-weight: 700; font-size: 13px; }
+.layers summary::-webkit-details-marker { display: none; }
+.layers summary::before { content: '◧'; font-size: 15px; }
+.layers[open] summary { border-bottom: 1px solid var(--line); }
+.layers__list { padding: 6px 8px 10px; display: grid; gap: 2px; max-height: 50vh; overflow: auto; }
+.layers__item { display: flex; align-items: center; gap: 8px; min-height: 44px; padding: 4px 6px; border-radius: 10px; font-size: 13px; cursor: pointer; }
+.layers__item:hover { background: rgba(58, 91, 255, 0.06); }
+.layers__item input { width: 20px; height: 20px; accent-color: var(--accent); flex: none; }
+.layers__item i { width: 12px; height: 12px; border-radius: 50%; flex: none; box-shadow: 0 0 0 2px #fff; }
+.layers__item small { display: block; font-size: 11px; color: var(--muted); }
+.layers__src { font-size: 11px; color: var(--ink-2); margin: 6px 4px 0; line-height: 1.35; }
+body.view-search .layers, body.view-fav .layers, body.view-compare .layers, body.no-map .layers { display: none; }
+@media (max-width: 760px) {
+  .layers { left: 8px; right: auto; bottom: calc(var(--nav-h) + 128px); max-width: calc(100vw - 16px); }
+  .legend { left: 8px; }
+  body.has-project .layers { display: none; }
+}
+
+/* ---- popups */
+.cpopup .maplibregl-popup-content { border-radius: 14px; padding: 12px 14px; box-shadow: var(--shadow); font: 13px/1.4 var(--font); }
+.cpopup .maplibregl-popup-close-button { width: 32px; height: 32px; font-size: 18px; }
+.cpop h3 { margin: 2px 24px 4px 0; font: 700 15px var(--display); }
+.cpop h3:focus { outline: none; }
+.cpop p { margin: 0 0 4px; color: var(--ink-2); }
+.cpop a { display: inline-block; margin-right: 10px; font-weight: 600; }
+.cpop__kind { font-size: 11px; font-weight: 700; text-transform: uppercase; letter-spacing: 0.04em; }
+.cpop--education .cpop__kind { color: #4c5bd4; }
+.cpop--medicine .cpop__kind { color: #e0435f; }
+.cpop--shop .cpop__kind { color: #9b6bd6; }
+.cpop--park .cpop__kind { color: #3fa36b; }
+.cpop--crime .cpop__kind { color: #c2410c; }
+.cpop__dist { color: var(--ink) !important; font-weight: 600; }
+.cpop__src { font-size: 11px; color: var(--muted) !important; font-weight: 400 !important; }
+
+/* chess header sticks below the sticky project tabs instead of covering them */
+.chess__head { top: 56px; }

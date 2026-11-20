@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="robots" content="noindex,nofollow" />
+  <title>Uy bar — 3D-карта ЖК Астаны · концепт</title>
+  <meta name="description" content="Uy bar — концепт-демо 3D-карты жилых комплексов SVOYDOM в Астане. Не официальный сайт." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;600;700;800&family=Inter:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="preconnect" href="https://tiles.openfreemap.org" crossorigin />
+</head>
+<body>
+  <a class="skip-link" href="#project-list-h" id="skip-list">Перейти к списку ЖК</a>
+  <div id="live" class="sr-only" aria-live="polite" aria-atomic="true"></div>
+  <div id="map" role="region" aria-label="3D-карта ЖК. Тот же выбор доступен в списке ЖК."></div>
+
+  <header class="topbar glass">
+    <div class="brand">
+      <div class="brand__mark" aria-hidden="true"></div>
+      <div>
+        <div class="brand__title">Uy bar</div>
+        <div class="brand__sub">Астана · <span id="count-label">…</span></div>
+      </div>
+    </div>
+    <div class="disclaimer" id="disclaimer-top">Концепт-демо для SVOYDOM. Не официальный сайт.</div>
+    <button type="button" class="btn btn--ghost filters-toggle" id="filters-toggle" aria-expanded="false" aria-controls="filters">Фильтры</button>
+  </header>
+
+  <!-- desktop: in the top area; mobile: fixed bottom bar with the four main sections -->
+  <nav class="appnav glass" id="appnav" aria-label="Разделы">
+    <button type="button" class="appnav__b" data-view="map" aria-current="page"><span aria-hidden="true">◱</span>Карта</button>
+    <button type="button" class="appnav__b appnav__b--desktop" data-view="list"><span aria-hidden="true">≣</span>Список ЖК</button>
+    <button type="button" class="appnav__b" data-view="search"><span aria-hidden="true">⌕</span>Поиск</button>
+    <button type="button" class="appnav__b" data-view="fav"><span aria-hidden="true">♡</span>Избранное<i class="appnav__n" id="fav-count" aria-label="квартир в избранном"></i></button>
+    <button type="button" class="appnav__b" data-view="compare"><span aria-hidden="true">⇄</span>Сравнение<i class="appnav__n" id="cmp-count" aria-label="квартир в сравнении"></i></button>
+  </nav>
+
+  <section class="view glass" id="view" aria-live="off" hidden></section>
+
+  <aside class="filters glass" id="filters" aria-label="Подбор ЖК">
+    <div id="filters-form"></div>
+    <section class="plist" aria-labelledby="project-list-h">
+      <h2 class="plist__h" id="project-list-h" tabindex="-1">ЖК в подборке</h2>
+      <ul class="plist__items" id="project-list"></ul>
+    </section>
+  </aside>
+
+  <section class="panel glass" id="panel" aria-label="Карточка ЖК" hidden>
+    <button type="button" class="panel__handle" id="panel-handle" aria-label="Высота панели: половина. Нажмите, чтобы изменить; стрелки вверх/вниз"></button>
+    <button class="panel__close" id="panel-close" aria-label="Закрыть">×</button>
+    <div class="panel__body" id="panel-body"></div>
+  </section>
+
+  <div class="tooltip" id="tooltip" hidden></div>
+  <div class="toast glass" id="toast" hidden></div>
+
+  <div class="legend glass" id="legend"></div>
+
+  <details class="layers glass" id="layers">
+    <summary>Слои</summary>
+    <div class="layers__list"></div>
+  </details>
+
+  <div class="scene-help glass" role="group" aria-label="Управление 3D-сценой">
+    <span class="scene-help__mode"><b>ЛКМ:</b>
+      <button type="button" class="seg-mini" data-drag-mode="pan" aria-pressed="true">Двигать</button><button type="button" class="seg-mini" data-drag-mode="rotate" aria-pressed="false">Вращать</button>
+    </span>
+    <span id="drag-hint">Shift + ЛКМ — вращение и наклон</span>
+    <span><b>Зажать колесо</b> — вращение и наклон</span>
+    <span><b>Колесо</b> — масштаб</span>
+  </div>
+
+  <footer class="footer">
+    <span id="disclaimer-bottom">Концепт-демо для SVOYDOM. Не официальный сайт.</span>
+    <a href="/editor.html">Редактор контуров</a>
+  </footer>
+
+  <script type="module" src="/src/main.ts"></script>
+</body>
+</html>

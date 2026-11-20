@@ -1,0 +1,235 @@
+{
+ "aibat": {
+  "floorsMin": 12,
+  "floorsMax": 12,
+  "sections": 7,
+  "entrances": null,
+  "quotes": [
+   "секций высотой 12 этаж",
+   "состоит из 7 секц"
+  ],
+  "source": "https://svoydom.kz/lp/astana/aibat/"
+ },
+ "aqterek_2": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": 5,
+  "entrances": 8,
+  "quotes": [
+   "Этажность: 9-12",
+   "Количество секций : 5",
+   "Количество подъездов: 8"
+  ],
+  "source": "https://svoydom.kz/lp/astana/aqterek_2/"
+ },
+ "zhana_bastau": {
+  "floorsMin": null,
+  "floorsMax": null,
+  "sections": null,
+  "entrances": 7,
+  "quotes": [
+   "7 подъезд"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/zhana_bastau/"
+ },
+ "sandi_qala2": {
+  "floorsMin": 17,
+  "floorsMax": 21,
+  "sections": null,
+  "entrances": 5,
+  "quotes": [
+   "секции на 17, 19 и 21 этаж",
+   "5 подъезд"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/sandi_qala2/"
+ },
+ "elaman": {
+  "floorsMin": 9,
+  "floorsMax": 9,
+  "sections": 5,
+  "entrances": 9,
+  "quotes": [
+   "Этажность: 9 этаж",
+   "Количество секций: 5",
+   "Количество подъездов: 9"
+  ],
+  "source": "https://svoydom.kz/lp/astana/elaman/"
+ },
+ "baidaulet": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 5,
+  "quotes": [
+   "9, 12 Этаж",
+   "5 Подъезд"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/baidaulet/"
+ },
+ "qaiyndy": {
+  "floorsMin": null,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 4,
+  "quotes": [
+   "высота в 12 этаж",
+   "Количество подъездов 4"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/qaiyndy/"
+ },
+ "dauys": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": null,
+  "quotes": [
+   "9, 12 этаж"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/dauys/"
+ },
+ "tansu": {
+  "floorsMin": 6,
+  "floorsMax": 6,
+  "sections": null,
+  "entrances": null,
+  "quotes": [
+   "Всего 6 этаж"
+  ],
+  "source": "https://svoydom.kz/business_projects/tansu/"
+ },
+ "tamgaly": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 7,
+  "quotes": [
+   "Этажность: 9–12",
+   "Количество подъездов: 7"
+  ],
+  "source": "https://svoydom.kz/lp/astana/tamgaly/"
+ },
+ "arman_meken": {
+  "floorsMin": 12,
+  "floorsMax": 17,
+  "sections": 3,
+  "entrances": 3,
+  "quotes": [
+   "Этажность: 12 - 17",
+   "Количество секций : 3",
+   "Количество подъездов: 3"
+  ],
+  "source": "https://svoydom.kz/lp/astana/arman_meken/"
+ },
+ "asylmeken2": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 5,
+  "quotes": [
+   "Этажность: 9–12",
+   "Количество подъездов: 5"
+  ],
+  "source": "https://svoydom.kz/lp/astana/asylmeken2/"
+ },
+ "dauylpaz": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 5,
+  "quotes": [
+   "9, 12 этаж",
+   "5 подъезд"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/dauylpaz/"
+ },
+ "aisaule": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 8,
+  "quotes": [
+   "Этажность: 9-12",
+   "Количество подъездов: 8"
+  ],
+  "source": "https://svoydom.kz/lp/astana/aisaule/"
+ },
+ "tamasha": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": null,
+  "quotes": [
+   "9, 12 этаж"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/tamasha/"
+ },
+ "asyl_meken": {
+  "floorsMin": 12,
+  "floorsMax": 12,
+  "sections": 3,
+  "entrances": 5,
+  "quotes": [
+   "Этажность: 12 этаж",
+   "Количество секций: 3",
+   "Количество подъездов: 5"
+  ],
+  "source": "https://svoydom.kz/lp/astana/asyl_meken/"
+ },
+ "altyn_adam": {
+  "floorsMin": null,
+  "floorsMax": null,
+  "sections": null,
+  "entrances": 4,
+  "quotes": [
+   "Количество подъездов: 4"
+  ],
+  "source": "https://svoydom.kz/business_projects/altyn_adam/"
+ },
+ "baidaulet2": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": null,
+  "entrances": 5,
+  "quotes": [
+   "9, 12 Этаж",
+   "5 Подъезд"
+  ],
+  "source": "https://svoydom.kz/comfort_projects/baidaulet2/"
+ },
+ "baiqadam": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": 6,
+  "entrances": 7,
+  "quotes": [
+   "Этажность: 9-12",
+   "Количество секций: 6",
+   "Количество подъездов: 7"
+  ],
+  "source": "https://svoydom.kz/lp/astana/baiqadam/"
+ },
+ "baisal": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": 8,
+  "entrances": 8,
+  "quotes": [
+   "Этажность: 9-12",
+   "Количество секций: 8",
+   "Количество подъездов: 8"
+  ],
+  "source": "https://svoydom.kz/lp/astana/baisal/"
+ },
+ "aqterek": {
+  "floorsMin": 9,
+  "floorsMax": 12,
+  "sections": 5,
+  "entrances": 8,
+  "quotes": [
+   "Этажность: 9-12",
+   "Количество секций : 5",
+   "Количество подъездов: 8"
+  ],
+  "source": "https://svoydom.kz/lp/astana/aqterek/"
+ }
+}
