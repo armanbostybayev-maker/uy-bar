@@ -290,7 +290,7 @@ function addLayers() {
   map.addLayer({
     id: 'pts-label', type: 'symbol', source: 'pts', minzoom: 11.6,
     // projects under construction get an HTML flag (name + deadline) instead of this label
-    filter: ['all', ['!', ['has', 'point_count']], ['get', 'match'], ['!=', ['get', 'status'], 'строится']],
+    filter: ['all', ['!', ['has', 'point_count']], ['get', 'match'], ['==', ['get', 'status'], '__flags_replace_labels__']], // every ZhK is labelled by its flag
     layout: {
       'text-field': ['get', 'label'], 'text-font': ['Noto Sans Bold'], 'text-size': ['interpolate', ['linear'], ['zoom'], 12, 11, 16, 13],
       'text-anchor': 'bottom', 'text-offset': [0, -0.9], 'text-line-height': 1.25, 'text-max-width': 14, 'symbol-sort-key': ['case', ['==', ['get', 'status'], 'строится'], 0, 1],
@@ -299,34 +299,37 @@ function addLayers() {
   });
 }
 
-// ---------------------------------------------------------------- flags over projects under construction
+// ---------------------------------------------------------------- flags over every project (green = under construction, blue = completed)
 // HTML markers: the marker is lifted to the roof (by zoom and pitch), a short pole and a pennant
 // with the project name and its completion date. Hidden below zoom 11.6 (clusters take over).
 const shortDeadline = (d: string | null) =>
   !d ? 'срок не указан' : d.replace(/\s*квартал\s*/i, ' кв. ').replace(/\s*год[а]?\s*$/i, '').replace(/\s+/g, ' ').trim();
 const flags = new Map<string, { marker: maplibregl.Marker; el: HTMLElement; p: Project; heightM: number }>();
 function initFlags() {
-  for (const p of state.projects.filter((x) => x.status === 'строится')) {
+  for (const p of state.projects) {
+    const done = p.status !== 'строится';
+    const when = done ? (p.deadline ? `сдан: ${shortDeadline(p.deadline)}` : "сдан") : `сдача: ${shortDeadline(p.deadline)}`;
     const [sw, ne] = bbox(p.buildings.map((b) => b.ring));
     const center: LngLat = [(sw[0] + ne[0]) / 2, (sw[1] + ne[1]) / 2];
     const heightM = Math.max(...p.buildings.map((b) => buildingHeight(b.floors)));
     const el = document.createElement('button');
     el.type = 'button';
     el.className = 'zhk-flag';
-    el.setAttribute('aria-label', `ЖК ${p.name}, сдача ${shortDeadline(p.deadline)}`);
+    el.setAttribute('aria-label', `ЖК ${p.name}, ${when}`);
+    if (done) el.classList.add('zhk-flag--done');
     const pennant = document.createElement('span');
     pennant.className = 'zhk-flag__pennant';
     const nm = document.createElement('b');
     nm.textContent = p.name; // textContent: external strings never reach innerHTML
     const dl = document.createElement('span');
-    dl.textContent = `сдача: ${shortDeadline(p.deadline)}`;
+    dl.textContent = when;
     pennant.append(nm, dl);
     const pole = document.createElement('span');
     pole.className = 'zhk-flag__pole';
     el.append(pennant, pole);
     el.addEventListener('click', (e) => { e.stopPropagation(); selectProject(p.slug); });
     const marker = new maplibregl.Marker({ element: el, anchor: 'bottom-left' }).setLngLat(center).addTo(map);
-    el.setAttribute('aria-label', `ЖК ${p.name}, сдача ${shortDeadline(p.deadline)}. Открыть`); // Marker overwrites it with «Map marker»
+    el.setAttribute('aria-label', `ЖК ${p.name}, ${when}. Открыть`); // Marker overwrites it with «Map marker»
     flags.set(p.slug, { marker, el, p, heightM });
   }
   updateFlags();
@@ -342,7 +345,7 @@ function updateFlags() {
   const placed: { x: number; y: number; w: number; h: number }[] = [];
   const items = [...flags.values()].map((f) => ({ ...f, pt: map.project(f.marker.getLngLat()) })).sort((a, b) => b.pt.y - a.pt.y);
   for (const { el, p, heightM, pt, marker } of items) {
-    const visible = zoom >= 11.6 && matches(p);
+    const visible = zoom >= (p.status === 'строится' ? 11.6 : 12.5) && matches(p);
     el.hidden = !visible;
     if (!visible) continue;
     // the pole starts on the roof: lift the marker by the projected building height

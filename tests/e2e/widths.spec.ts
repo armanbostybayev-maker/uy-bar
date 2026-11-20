@@ -48,8 +48,10 @@ test.describe('responsive layout matrix', () => {
     await page.goto('/?nomap=1&p=qadam');
     await expect(page.locator('#panel-body h2')).toHaveText('ЖК Qadam');
     await noHorizontalScroll(page);
-    const title = (await page.locator('.brand__title').boundingBox())!;
-    expect(title.width).toBeGreaterThan(120); // the title must not collapse into a column
+    // the title must not collapse into a column: one line and not clipped
+    const t = await page.locator('.brand__title').evaluate((e) => ({ clipped: e.scrollWidth > e.clientWidth + 1, h: e.getBoundingClientRect().height }));
+    expect(t.clipped).toBe(false);
+    expect(t.h).toBeLessThan(30);
     expect(await smallTargets(page)).toEqual([]);
   });
 

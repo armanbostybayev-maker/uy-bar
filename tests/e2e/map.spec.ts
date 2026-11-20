@@ -182,6 +182,16 @@ test.describe('3D map navigation (desktop)', () => {
     expect((await page.locator('#layers').boundingBox())!.x).toBeLessThanOrEqual(20); // menu hidden → corner
   });
 
+  test('completed projects also get a flag, fully blue, with «сдан: year»', async ({ page }) => {
+    await page.goto('/?cam=71.4997,51.1130,16,-20,55');
+    test.skip(!(await mapReady(page)), 'map unavailable');
+    const f = page.getByLabel(/^ЖК DOMBYRA, сдан/);
+    await expect(f).toBeVisible();
+    await expect(f).toContainText('сдан: 2024');
+    await expect(f.locator('.zhk-flag__pennant')).toHaveCSS('background-color', 'rgb(79, 124, 255)');
+    await expect(f.locator('.zhk-flag__pole')).toHaveCSS('background-image', /79, 124, 255/);
+  });
+
   test('wheel zooms', async ({ page }) => {
     const a = (await cam(page))!;
     const box = (await page.locator('#map canvas').boundingBox())!;

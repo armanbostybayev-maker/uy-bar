@@ -43,3 +43,12 @@ body.view-search .layers, body.view-fav .layers, body.view-compare .layers, body
 
 /* chess header sticks below the sticky project tabs instead of covering them */
 .chess__head { top: 56px; }
+
+/* completed projects: the whole flag is blue — pennant, pole and base dot */
+.zhk-flag--done { --flag: #4f7cff; }
+.zhk-flag--done .zhk-flag__pennant { background: #4f7cff; }
+.zhk-flag--done .zhk-flag__pole { background: linear-gradient(#4f7cff, rgba(79, 124, 255, 0.6)); box-shadow: 0 0 0 1px rgba(30, 58, 160, 0.35); }
+.zhk-flag--done:hover .zhk-flag__pennant { background: #2f5ff0; }
+.zhk-flag--done.is-selected { --flag: #ff6b2c; }
+.zhk-flag--done.is-selected .zhk-flag__pennant { background: #ff6b2c; }
+.zhk-flag--done.is-selected .zhk-flag__pole { background: linear-gradient(#ff6b2c, rgba(255, 107, 44, 0.6)); }
