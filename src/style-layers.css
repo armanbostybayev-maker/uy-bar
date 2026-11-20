@@ -52,3 +52,35 @@ body.view-search .layers, body.view-fav .layers, body.view-compare .layers, body
 .zhk-flag--done.is-selected { --flag: #ff6b2c; }
 .zhk-flag--done.is-selected .zhk-flag__pennant { background: #ff6b2c; }
 .zhk-flag--done.is-selected .zhk-flag__pole { background: linear-gradient(#ff6b2c, rgba(255, 107, 44, 0.6)); }
+
+/* compact flags while zoomed out: name only, small pennant */
+.zhk-flag.is-compact .zhk-flag__pennant { padding: 3px 11px 3px 6px; }
+.zhk-flag.is-compact .zhk-flag__pennant b { font-size: 10.5px; }
+.zhk-flag.is-compact .zhk-flag__pennant span { display: none; }
+.zhk-flag.is-compact .zhk-flag__pole::after { width: 6px; height: 6px; left: -2px; bottom: -2px; border-width: 1.5px; }
+
+/* mobile filters sheet: handle + half/full snaps */
+.filters__handle { display: none; }
+@media (max-width: 760px) {
+  .filters:not(.is-open) { pointer-events: none; }
+  .filters__handle { display: block; position: sticky; top: -12px; z-index: 3; width: calc(100% + 24px); height: 30px; margin: -12px -12px 2px; border: 0; padding: 0; background: inherit; cursor: grab; touch-action: none; border-radius: 20px 20px 0 0; }
+  .filters__handle::after { content: ''; position: absolute; top: 10px; left: 50%; width: 44px; height: 5px; margin-left: -22px; border-radius: 3px; background: rgba(22, 27, 38, 0.25); }
+  .filters { height: calc((100dvh - var(--nav-h)) * 0.55); max-height: none; top: auto; transition: transform 0.3s cubic-bezier(.2, .8, .2, 1), height 0.28s cubic-bezier(.2, .8, .2, 1); box-shadow: 0 -10px 40px rgba(20, 26, 40, 0.18); }
+  .filters[data-snap="full"] { height: calc((100dvh - var(--nav-h)) * 0.9); }
+  .filters.is-dragging { transition: none !important; height: var(--fsheet-h) !important; }
+  .filters .filters__head { touch-action: none; }
+  body.list-mode .filters { height: auto; }
+  body.list-mode .filters__handle { display: none; }
+}
+
+/* flipped flag (near the right edge): pole on the right, pennant points left */
+.zhk-flag.is-flip { align-items: flex-end; }
+.zhk-flag.is-flip .zhk-flag__pennant { margin-left: 0; margin-right: 2px; padding-left: 14px; padding-right: 9px; align-items: flex-end; clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%, 9px 50%); }
+.zhk-flag.is-flip.is-compact .zhk-flag__pennant { padding-left: 11px; padding-right: 6px; }
+.zhk-flag.is-flip .zhk-flag__pole::after { left: auto; right: -3px; }
+
+/* mobile: the filters sheet spans the full width (the 231 px desktop width must not leak in) */
+@media (max-width: 760px) {
+  .filters { width: auto; left: 0; right: 0; border-radius: 20px 20px 0 0; padding: 12px 14px calc(16px + env(safe-area-inset-bottom)); }
+  .filters .chip { padding: 8px 14px; font-size: 13px; }
+}

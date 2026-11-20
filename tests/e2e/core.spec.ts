@@ -7,8 +7,8 @@ test.describe('core scenario (list path, works without 3D)', () => {
     await page.goto('/?nomap=1');
     await ready(page);
     await expect(page.locator('meta[name="robots"]')).toHaveAttribute('content', 'noindex,nofollow');
-    await expect(page.locator('#disclaimer-top')).toContainText('Концепт-демо для SVOYDOM. Не официальный сайт. Данные с svoydom.kz на');
-    await expect(page.locator('#disclaimer-bottom')).toContainText('Не официальный сайт');
+    await expect(page.locator('.topbar .disclaimer')).toHaveCount(0); // header plaque removed on request
+    await expect(page.locator('#disclaimer-bottom')).toContainText('Не официальный сайт SVOYDOM · концепт · данные svoydom.kz на');
     expect(errors).toEqual([]);
   });
 

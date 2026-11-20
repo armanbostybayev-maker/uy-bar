@@ -117,3 +117,51 @@ test.describe('touch gestures on the map', () => {
     expect(camOf()[2]).toBeGreaterThan(b[2] + 0.3);
   });
 });
+
+test('start extent shows named flags of projects under construction (no clusters)', async ({ page }) => {
+  await page.goto('/');
+  test.skip(!(await mapReady(page)), 'map unavailable');
+  await page.waitForTimeout(3500); // intro flight
+  const visible = page.locator('.zhk-flag:not([hidden])');
+  expect(await visible.count()).toBeGreaterThanOrEqual(10);
+  await expect(visible.first()).toHaveClass(/is-compact/);
+  // every visible flag fits on screen horizontally (flags near the right edge flip left)
+  const vw = page.viewportSize()!.width;
+  for (const f of (await visible.all()).slice(0, 25)) {
+    const b = await f.boundingBox();
+    if (b && b.y > 0 && b.y < page.viewportSize()!.height) { expect(b.x).toBeGreaterThanOrEqual(-2); expect(b.x + b.width).toBeLessThanOrEqual(vw + 2); }
+  }
+});
+
+test('filters sheet: full width, opens at 55 %, drag up 90 %, flick down closes, Esc closes', async ({ page }) => {
+  await page.goto('/'); // map view: with ?nomap the filters are the main list, not a sheet
+  const f = page.locator('#filters');
+  await page.locator('#filters-toggle').click();
+  await expect(f).toHaveClass(/is-open/);
+  await page.waitForTimeout(400);
+  const avail = await page.evaluate(() => window.innerHeight - document.getElementById('appnav')!.getBoundingClientRect().height);
+  const pct = async () => (await f.boundingBox())!.height / avail;
+  expect((await f.boundingBox())!.width).toBe(page.viewportSize()!.width);
+  expect(Math.abs((await pct()) - 0.55)).toBeLessThan(0.02);
+  const drag = (dy: number, ms: number) => page.evaluate(async ({ dy, ms }) => {
+    const h = document.getElementById('filters-handle')!;
+    const r = h.getBoundingClientRect(); const y0 = r.top + r.height / 2; const n = Math.max(3, Math.round(ms / 16));
+    const fire = (t: string, y: number) => h.dispatchEvent(new PointerEvent(t, { bubbles: true, pointerId: 4, pointerType: 'touch', isPrimary: true, clientX: 180, clientY: y }));
+    fire('pointerdown', y0);
+    for (let i = 1; i <= n; i++) { await new Promise((res) => setTimeout(res, ms / n)); fire('pointermove', y0 + (dy * i) / n); }
+    fire('pointerup', y0 + dy);
+  }, { dy, ms });
+  await drag(-avail * 0.3, 700);
+  await expect(f).toHaveAttribute('data-snap', 'full');
+  await page.waitForTimeout(400);
+  expect(Math.abs((await pct()) - 0.9)).toBeLessThan(0.02);
+  await drag(avail * 0.3, 700);
+  await expect(f).toHaveAttribute('data-snap', 'half');
+  await drag(avail * 0.12, 60);
+  await expect(f).not.toHaveClass(/is-open/);
+  await expect(page.locator('#filters-toggle')).toHaveAttribute('aria-expanded', 'false');
+  await page.locator('#filters-toggle').click();
+  await page.locator('#filters-handle').focus();
+  await page.keyboard.press('Escape');
+  await expect(f).not.toHaveClass(/is-open/);
+});

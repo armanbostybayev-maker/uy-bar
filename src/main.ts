@@ -334,8 +334,18 @@ function initFlags() {
   }
   updateFlags();
 }
+// Flags of projects under construction show from z11.6 (desktop) / z10.2 (mobile, so they are on screen at the
+// start extent); completed ones from z12.5. Below z12.3 flags are compact (name only) and clusters hide under them.
+const flagMinZoom = (p: Project) => (p.status === 'строится' ? (isMobile() ? 10.2 : 11.6) : 12.5);
+let clustersHidden: boolean | null = null;
 function updateFlags() {
   const zoom = map.getZoom();
+  const compact = zoom < 12.3;
+  const hideClusters = zoom >= (isMobile() ? 10.2 : 11.6);
+  if (layersReady && hideClusters !== clustersHidden) {
+    clustersHidden = hideClusters;
+    for (const id of ['clusters', 'cluster-count']) map.setLayoutProperty(id, 'visibility', hideClusters ? 'none' : 'visible');
+  }
   const lat = map.getCenter().lat;
   const mpp = (40075016.686 * Math.cos((lat * Math.PI) / 180)) / (512 * 2 ** zoom); // metres per CSS pixel
   const tilt = Math.sin((map.getPitch() * Math.PI) / 180);
@@ -345,17 +355,22 @@ function updateFlags() {
   const placed: { x: number; y: number; w: number; h: number }[] = [];
   const items = [...flags.values()].map((f) => ({ ...f, pt: map.project(f.marker.getLngLat()) })).sort((a, b) => b.pt.y - a.pt.y);
   for (const { el, p, heightM, pt, marker } of items) {
-    const visible = zoom >= (p.status === 'строится' ? 11.6 : 12.5) && matches(p);
+    const visible = zoom >= flagMinZoom(p) && matches(p);
     el.hidden = !visible;
     if (!visible) continue;
+    el.classList.toggle('is-compact', compact);
     // the pole starts on the roof: lift the marker by the projected building height
     const roof = Math.min(600, Math.round(((heightM * grow) / mpp) * tilt));
-    marker.setOffset([0, -roof]);
-    let pole = 26;
+    let pole = compact ? 14 : 26;
     const w = el.offsetWidth || 120, h = (el.firstElementChild as HTMLElement)?.offsetHeight || 34;
-    const hit = (y: number) => placed.some((r) => pt.x < r.x + r.w && pt.x + w > r.x && y < r.y + r.h && y + h > r.y);
-    for (let i = 0; i < 6 && hit(pt.y - roof - pole - h); i++) pole += 30;
-    placed.push({ x: pt.x, y: pt.y - roof - pole - h, w, h });
+    // near the right edge the pennant flies to the left of the pole so it is not cut off
+    const flip = pt.x + w > map.getCanvas().clientWidth - 6 && pt.x - w > 0;
+    el.classList.toggle('is-flip', flip);
+    marker.setOffset([flip ? -w + 2 : 0, -roof]);
+    const x0 = flip ? pt.x - w : pt.x;
+    const hit = (y: number) => placed.some((r) => x0 < r.x + r.w && x0 + w > r.x && y < r.y + r.h && y + h > r.y);
+    for (let i = 0; i < 6 && hit(pt.y - roof - pole - h); i++) pole += h + 4;
+    placed.push({ x: x0, y: pt.y - roof - pole - h, w, h });
     el.style.setProperty('--pole', `${pole}px`);
     el.classList.toggle('is-selected', state.sel?.slug === p.slug);
   }
@@ -390,8 +405,14 @@ let spinning = false;
 function introFlight() {
   const active = state.projects.filter((p) => p.status === 'строится').map((p) => p.coords);
   const [sw, ne] = bbox([active]);
-  const cam = map.cameraForBounds([sw, ne], { padding: isMobile() ? 40 : { top: 120, bottom: 80, left: 380, right: 80 }, bearing: -18, pitch: 52 });
-  map.flyTo({ ...cam, pitch: 52, bearing: -18, duration: dur(2600), essential: true });
+  const mob = isMobile();
+  const topH = document.querySelector('.topbar')?.getBoundingClientRect().bottom ?? 120;
+  const navH = document.getElementById('appnav')?.getBoundingClientRect().height ?? 60;
+  const pitch = mob ? 30 : 52, bearing = mob ? -8 : -18;
+  const cam = map.cameraForBounds([sw, ne], { padding: mob ? { top: topH + 50, bottom: navH + 30, left: 16, right: 60 } : { top: 120, bottom: 80, left: 380, right: 80 }, bearing, pitch });
+  // mobile: never start below the flag threshold, so the projects are visible as named flags right away
+  const zoom = mob ? Math.max(cam?.zoom ?? 10.4, 10.4) : cam?.zoom;
+  map.flyTo({ ...cam, zoom, pitch, bearing, duration: dur(2600), essential: true });
   // one slow, finite turn after the fly-in — never a loop, so markers stay clickable
   map.once('moveend', () => {
     if (state.sel || introDone || reduceMotion()) return;
@@ -435,7 +456,7 @@ $('filters').addEventListener('click', (e) => {
   if (g === 'rooms') toggle(f.rooms, Number(v));
   if (g === 'close') {
     if (viewMode === 'list') { $('project-list-h').focus(); $('project-list-h').scrollIntoView({ block: 'start' }); return; }
-    $('filters').classList.remove('is-open'); $('filters-toggle').setAttribute('aria-expanded', 'false'); return;
+    setFilterSheet(null); return;
   }
   if (g === 'reset') Object.assign(f, { classes: new Set(), statuses: new Set(), year: 0, rooms: new Set(), budget: 0, district: '' });
   applyFilters();
@@ -584,11 +605,68 @@ $('skip-list').addEventListener('click', (e) => {
   $('filters-toggle').setAttribute('aria-expanded', 'true');
   $('project-list-h').focus();
 });
-$('filters-toggle').onclick = () => {
-  const open = !$('filters').classList.contains('is-open');
-  $('filters').classList.toggle('is-open', open);
+$('filters-toggle').onclick = () => setFilterSheet($('filters').classList.contains('is-open') ? null : 'half');
+// ---------------------------------------------------------------- mobile filters sheet: half / full, swipe to close
+// Opens at 55 % of the space above the bottom nav; drag the handle (or the sheet header) up → 90 %, down → 55 %,
+// a flick down from 55 % (or dragging below 20 %) closes it. Keyboard on the handle: Enter toggles, ↑/↓ steps, Esc closes.
+type FSnap = 'half' | 'full';
+const FSNAP_PCT: Record<FSnap, number> = { half: 55, full: 90 };
+const fsheet = $('filters'), fhandle = $('filters-handle');
+let fsnap: FSnap = 'half';
+function setFilterSheet(s: FSnap | null) {
+  const open = s !== null;
+  if (s) fsnap = s;
+  fsheet.classList.toggle('is-open', open);
+  fsheet.dataset.snap = s ?? '';
+  fsheet.style.removeProperty('--fsheet-h');
   $('filters-toggle').setAttribute('aria-expanded', String(open));
+  fhandle.setAttribute('aria-label', `Шторка фильтров: ${fsnap === 'full' ? 'развёрнута' : 'половина'}. Потяните вверх или вниз; Enter — развернуть, стрелки — высота, Esc — закрыть`);
+}
+fhandle.addEventListener('click', () => { if (!fdrag?.moved) setFilterSheet(fsnap === 'half' ? 'full' : 'half'); });
+fhandle.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowUp') { e.preventDefault(); setFilterSheet('full'); }
+  if (e.key === 'ArrowDown') { e.preventDefault(); fsnap === 'full' ? setFilterSheet('half') : setFilterSheet(null); }
+});
+fsheet.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape' && isMobile() && fsheet.classList.contains('is-open') && viewMode !== 'list') { e.stopPropagation(); setFilterSheet(null); $('filters-toggle').focus(); }
+});
+let fdrag: { id: number; y0: number; h0: number; samples: { y: number; t: number }[]; moved: boolean } | null = null;
+const favail = () => window.innerHeight - (document.getElementById('appnav')?.getBoundingClientRect().height || 0);
+fsheet.addEventListener('pointerdown', (e) => {
+  if (!isMobile() || viewMode === 'list' || (e.pointerType === 'mouse' && e.button !== 0)) return;
+  const t = e.target as HTMLElement;
+  const onHandle = !!t.closest('.filters__handle');
+  // the header drags the sheet only while the content is scrolled to the top
+  if (!onHandle && !(t.closest('.filters__head') && fsheet.scrollTop === 0)) return;
+  fdrag = { id: e.pointerId, y0: e.clientY, h0: fsheet.getBoundingClientRect().height, samples: [{ y: e.clientY, t: e.timeStamp }], moved: false };
+  try { (onHandle ? fhandle : fsheet).setPointerCapture(e.pointerId); } catch { /* synthetic pointer */ }
+});
+fsheet.addEventListener('pointermove', (e) => {
+  if (!fdrag || e.pointerId !== fdrag.id) return;
+  const dy = e.clientY - fdrag.y0;
+  if (!fdrag.moved && Math.abs(dy) < 6) return;
+  fdrag.moved = true;
+  fsheet.classList.add('is-dragging');
+  fsheet.style.setProperty('--fsheet-h', `${Math.max(favail() * 0.1, Math.min(favail() * 0.95, fdrag.h0 - dy))}px`);
+  fdrag.samples.push({ y: e.clientY, t: e.timeStamp });
+  while (fdrag.samples.length > 2 && e.timeStamp - fdrag.samples[0].t > 100) fdrag.samples.shift();
+});
+const fend = (e: PointerEvent) => {
+  if (!fdrag || e.pointerId !== fdrag.id) return;
+  const d = fdrag;
+  fsheet.classList.remove('is-dragging');
+  setTimeout(() => (fdrag = null), 0);
+  if (!d.moved) return;
+  const pct = (fsheet.getBoundingClientRect().height / favail()) * 100;
+  const first = d.samples[0];
+  const v = (e.clientY - first.y) / Math.max(16, e.timeStamp - first.t); // px/ms, + = down
+  if (pct < 20 || (fsnap === 'half' && v > 0.7)) { setFilterSheet(null); return; }
+  if (Math.abs(v) > 0.6) setFilterSheet(v > 0 ? 'half' : 'full');
+  else setFilterSheet(Math.abs(pct - FSNAP_PCT.full) < Math.abs(pct - FSNAP_PCT.half) ? 'full' : 'half');
 };
+fsheet.addEventListener('pointerup', fend);
+fsheet.addEventListener('pointercancel', fend);
+
 
 // ---------------------------------------------------------------- tooltip / toast
 const tip = $('tooltip');
@@ -1150,9 +1228,8 @@ const projectsP = loadProjects();
 const appReady = projectsP.then(({ projects, fetchedAt }) => {
   state.projects = projects;
   state.fetchedAt = fetchedAt;
-  const d = `Концепт-демо для SVOYDOM. Не официальный сайт. Данные с svoydom.kz на ${fmtDate(fetchedAt)}`;
-  $('disclaimer-top').textContent = d;
-  $('disclaimer-bottom').textContent = d;
+  // the header plaque was removed on request; a short, quiet note stays in the footer so the page is not taken for the developer's site
+  $('disclaimer-bottom').textContent = `Не официальный сайт SVOYDOM · концепт · данные svoydom.kz на ${fmtDate(fetchedAt)}`;
   renderFilters();
   renderLegend();
 }).catch((err) => {

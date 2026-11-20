@@ -21,7 +21,7 @@ test.describe('responsive layout matrix', () => {
       await page.setViewportSize({ width: w, height: w < 768 ? 800 : 900 });
       await page.goto('/?nomap=1');
       await ready(page);
-      await expect(page.locator('#disclaimer-top')).toBeVisible();
+      await expect(page.locator('#disclaimer-bottom')).toBeVisible();
       await expect(page.locator('#appnav')).toBeVisible();
       await noHorizontalScroll(page);
       expect(await smallTargets(page)).toEqual([]);
